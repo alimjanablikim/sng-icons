@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Video Projector
  */
-export const videoProjectorRegularIconData: IconData = {
+export const videoProjectorRegular: IconData = {
   name: 'video-projector',
   type: 'regular',
   category: 'devices',

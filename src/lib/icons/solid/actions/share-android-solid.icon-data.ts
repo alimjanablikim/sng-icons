@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Share Android
  */
-export const shareAndroidSolidIconData: IconData = {
+export const shareAndroidSolid: IconData = {
   name: 'share-android',
   type: 'solid',
   category: 'actions',

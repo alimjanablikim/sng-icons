@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Align Center
  */
-export const alignCenterRegularIconData: IconData = {
+export const alignCenterRegular: IconData = {
   name: 'align-center',
   type: 'regular',
   category: 'design',

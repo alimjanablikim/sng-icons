@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Folder Minus
  */
-export const folderMinusRegularIconData: IconData = {
+export const folderMinusRegular: IconData = {
   name: 'folder-minus',
   type: 'regular',
   category: 'documents-and-folders',

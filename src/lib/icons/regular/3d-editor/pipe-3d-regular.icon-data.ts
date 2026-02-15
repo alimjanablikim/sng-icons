@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Pipe 3d
  */
-export const pipe3dRegularIconData: IconData = {
+export const pipe3dRegular: IconData = {
   name: 'pipe-3d',
   type: 'regular',
   category: '3d-editor',

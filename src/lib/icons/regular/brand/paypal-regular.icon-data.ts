@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Paypal
  */
-export const paypalRegularIconData: IconData = {
+export const paypalRegular: IconData = {
   name: 'paypal',
   type: 'regular',
   category: 'brand',

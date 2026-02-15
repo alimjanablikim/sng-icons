@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Window Check
  */
-export const windowCheckRegularIconData: IconData = {
+export const windowCheckRegular: IconData = {
   name: 'window-check',
   type: 'regular',
   category: 'devices',

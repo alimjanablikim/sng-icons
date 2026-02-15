@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Xbox Y
  */
-export const xboxYRegularIconData: IconData = {
+export const xboxYRegular: IconData = {
   name: 'xbox-y',
   type: 'regular',
   category: 'brand',

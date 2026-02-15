@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Underline Square
  */
-export const underlineSquareSolidIconData: IconData = {
+export const underlineSquareSolid: IconData = {
   name: 'underline-square',
   type: 'solid',
   category: 'design',

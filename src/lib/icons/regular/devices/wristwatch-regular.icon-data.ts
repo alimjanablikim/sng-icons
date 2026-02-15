@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Wristwatch
  */
-export const wristwatchRegularIconData: IconData = {
+export const wristwatchRegular: IconData = {
   name: 'wristwatch',
   type: 'regular',
   category: 'devices',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Fire Flame
  */
-export const fireFlameRegularIconData: IconData = {
+export const fireFlameRegular: IconData = {
   name: 'fire-flame',
   type: 'regular',
   category: 'environment',

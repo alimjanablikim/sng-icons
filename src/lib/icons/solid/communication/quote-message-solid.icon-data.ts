@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Quote Message
  */
-export const quoteMessageSolidIconData: IconData = {
+export const quoteMessageSolid: IconData = {
   name: 'quote-message',
   type: 'solid',
   category: 'communication',

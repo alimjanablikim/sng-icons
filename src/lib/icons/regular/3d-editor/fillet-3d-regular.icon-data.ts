@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Fillet 3d
  */
-export const fillet3dRegularIconData: IconData = {
+export const fillet3dRegular: IconData = {
   name: 'fillet-3d',
   type: 'regular',
   category: '3d-editor',

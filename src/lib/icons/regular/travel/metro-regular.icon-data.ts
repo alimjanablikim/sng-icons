@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Metro
  */
-export const metroRegularIconData: IconData = {
+export const metroRegular: IconData = {
   name: 'metro',
   type: 'regular',
   category: 'travel',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Frame Alt Empty
  */
-export const frameAltEmptyRegularIconData: IconData = {
+export const frameAltEmptyRegular: IconData = {
   name: 'frame-alt-empty',
   type: 'regular',
   category: 'design',

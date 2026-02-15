@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Credit Card Slash
  */
-export const creditCardSlashRegularIconData: IconData = {
+export const creditCardSlashRegular: IconData = {
   name: 'credit-card-slash',
   type: 'regular',
   category: 'business',

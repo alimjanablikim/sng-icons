@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Orthogonal View
  */
-export const orthogonalViewRegularIconData: IconData = {
+export const orthogonalViewRegular: IconData = {
   name: 'orthogonal-view',
   type: 'regular',
   category: '3d-editor',

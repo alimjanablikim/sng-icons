@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Sound High
  */
-export const soundHighRegularIconData: IconData = {
+export const soundHighRegular: IconData = {
   name: 'sound-high',
   type: 'regular',
   category: 'media',

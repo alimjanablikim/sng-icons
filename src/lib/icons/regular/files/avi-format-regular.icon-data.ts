@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Avi Format
  */
-export const aviFormatRegularIconData: IconData = {
+export const aviFormatRegular: IconData = {
   name: 'avi-format',
   type: 'regular',
   category: 'files',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Figma
  */
-export const figmaRegularIconData: IconData = {
+export const figmaRegular: IconData = {
   name: 'figma',
   type: 'regular',
   category: 'brand',

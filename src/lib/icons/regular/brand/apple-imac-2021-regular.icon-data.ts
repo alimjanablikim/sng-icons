@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Apple Imac 2021
  */
-export const appleImac2021RegularIconData: IconData = {
+export const appleImac2021Regular: IconData = {
   name: 'apple-imac-2021',
   type: 'regular',
   category: 'brand',

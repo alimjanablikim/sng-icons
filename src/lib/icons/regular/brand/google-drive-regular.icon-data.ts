@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Google Drive
  */
-export const googleDriveRegularIconData: IconData = {
+export const googleDriveRegular: IconData = {
   name: 'google-drive',
   type: 'regular',
   category: 'brand',

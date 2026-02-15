@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Xray View
  */
-export const xrayViewRegularIconData: IconData = {
+export const xrayViewRegular: IconData = {
   name: 'xray-view',
   type: 'regular',
   category: '3d-editor',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Augmented Reality
  */
-export const augmentedRealityRegularIconData: IconData = {
+export const augmentedRealityRegular: IconData = {
   name: 'augmented-reality',
   type: 'regular',
   category: 'devices',

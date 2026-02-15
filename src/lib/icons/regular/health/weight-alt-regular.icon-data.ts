@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Weight Alt
  */
-export const weightAltRegularIconData: IconData = {
+export const weightAltRegular: IconData = {
   name: 'weight-alt',
   type: 'regular',
   category: 'health',

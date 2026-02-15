@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Minus Circle
  */
-export const minusCircleRegularIconData: IconData = {
+export const minusCircleRegular: IconData = {
   name: 'minus-circle',
   type: 'regular',
   category: 'controls',

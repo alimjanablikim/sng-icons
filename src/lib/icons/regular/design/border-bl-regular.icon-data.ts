@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Border Bl
  */
-export const borderBlRegularIconData: IconData = {
+export const borderBlRegular: IconData = {
   name: 'border-bl',
   type: 'regular',
   category: 'design',

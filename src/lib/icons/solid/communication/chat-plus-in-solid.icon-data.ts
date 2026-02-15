@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Chat Plus In
  */
-export const chatPlusInSolidIconData: IconData = {
+export const chatPlusInSolid: IconData = {
   name: 'chat-plus-in',
   type: 'solid',
   category: 'communication',

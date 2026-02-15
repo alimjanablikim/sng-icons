@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Area Search
  */
-export const areaSearchRegularIconData: IconData = {
+export const areaSearchRegular: IconData = {
   name: 'area-search',
   type: 'regular',
   category: 'design',

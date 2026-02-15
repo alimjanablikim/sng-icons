@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Warning Triangle
  */
-export const warningTriangleSolidIconData: IconData = {
+export const warningTriangleSolid: IconData = {
   name: 'warning-triangle',
   type: 'solid',
   category: 'actions',

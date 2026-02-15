@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Circle Spark
  */
-export const circleSparkRegularIconData: IconData = {
+export const circleSparkRegular: IconData = {
   name: 'circle-spark',
   type: 'regular',
   category: 'shapes',

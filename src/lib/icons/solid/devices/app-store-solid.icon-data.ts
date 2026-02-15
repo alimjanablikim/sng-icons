@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name App Store
  */
-export const appStoreSolidIconData: IconData = {
+export const appStoreSolid: IconData = {
   name: 'app-store',
   type: 'solid',
   category: 'devices',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Window Xmark
  */
-export const windowXmarkRegularIconData: IconData = {
+export const windowXmarkRegular: IconData = {
   name: 'window-xmark',
   type: 'regular',
   category: 'devices',

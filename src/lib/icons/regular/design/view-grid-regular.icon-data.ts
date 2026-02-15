@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name View Grid
  */
-export const viewGridRegularIconData: IconData = {
+export const viewGridRegular: IconData = {
   name: 'view-grid',
   type: 'regular',
   category: 'design',

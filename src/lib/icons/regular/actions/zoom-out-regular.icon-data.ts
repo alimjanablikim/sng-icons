@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Zoom Out
  */
-export const zoomOutRegularIconData: IconData = {
+export const zoomOutRegular: IconData = {
   name: 'zoom-out',
   type: 'regular',
   category: 'actions',

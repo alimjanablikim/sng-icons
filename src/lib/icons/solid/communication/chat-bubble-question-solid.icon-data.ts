@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Chat Bubble Question
  */
-export const chatBubbleQuestionSolidIconData: IconData = {
+export const chatBubbleQuestionSolid: IconData = {
   name: 'chat-bubble-question',
   type: 'solid',
   category: 'communication',

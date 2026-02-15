@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Hard Drive
  */
-export const hardDriveRegularIconData: IconData = {
+export const hardDriveRegular: IconData = {
   name: 'hard-drive',
   type: 'regular',
   category: 'computer',

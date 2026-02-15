@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Compact Disc
  */
-export const compactDiscRegularIconData: IconData = {
+export const compactDiscRegular: IconData = {
   name: 'compact-disc',
   type: 'regular',
   category: 'media',

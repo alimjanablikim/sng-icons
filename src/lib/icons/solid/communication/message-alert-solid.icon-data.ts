@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Message Alert
  */
-export const messageAlertSolidIconData: IconData = {
+export const messageAlertSolid: IconData = {
   name: 'message-alert',
   type: 'solid',
   category: 'communication',

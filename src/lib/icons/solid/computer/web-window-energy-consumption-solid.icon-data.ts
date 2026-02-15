@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Web Window Energy Consumption
  */
-export const webWindowEnergyConsumptionSolidIconData: IconData = {
+export const webWindowEnergyConsumptionSolid: IconData = {
   name: 'web-window-energy-consumption',
   type: 'solid',
   category: 'computer',

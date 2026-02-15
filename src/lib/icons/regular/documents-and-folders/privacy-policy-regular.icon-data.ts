@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Privacy Policy
  */
-export const privacyPolicyRegularIconData: IconData = {
+export const privacyPolicyRegular: IconData = {
   name: 'privacy-policy',
   type: 'regular',
   category: 'documents-and-folders',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Folder Settings
  */
-export const folderSettingsRegularIconData: IconData = {
+export const folderSettingsRegular: IconData = {
   name: 'folder-settings',
   type: 'regular',
   category: 'documents-and-folders',

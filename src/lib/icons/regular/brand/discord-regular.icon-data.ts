@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Discord
  */
-export const discordRegularIconData: IconData = {
+export const discordRegular: IconData = {
   name: 'discord',
   type: 'regular',
   category: 'brand',

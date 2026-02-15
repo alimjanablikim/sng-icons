@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Center Align
  */
-export const centerAlignSolidIconData: IconData = {
+export const centerAlignSolid: IconData = {
   name: 'center-align',
   type: 'solid',
   category: 'design',

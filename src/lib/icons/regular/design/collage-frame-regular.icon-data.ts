@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Collage Frame
  */
-export const collageFrameRegularIconData: IconData = {
+export const collageFrameRegular: IconData = {
   name: 'collage-frame',
   type: 'regular',
   category: 'design',

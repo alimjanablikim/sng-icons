@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Google Docs
  */
-export const googleDocsRegularIconData: IconData = {
+export const googleDocsRegular: IconData = {
   name: 'google-docs',
   type: 'regular',
   category: 'brand',

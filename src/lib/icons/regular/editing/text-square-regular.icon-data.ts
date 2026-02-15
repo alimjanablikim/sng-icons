@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Text Square
  */
-export const textSquareRegularIconData: IconData = {
+export const textSquareRegular: IconData = {
   name: 'text-square',
   type: 'regular',
   category: 'editing',

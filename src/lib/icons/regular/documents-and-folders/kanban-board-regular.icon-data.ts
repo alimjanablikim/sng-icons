@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Kanban Board
  */
-export const kanbanBoardRegularIconData: IconData = {
+export const kanbanBoardRegular: IconData = {
   name: 'kanban-board',
   type: 'regular',
   category: 'documents-and-folders',

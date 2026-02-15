@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Thunderstorm
  */
-export const thunderstormRegularIconData: IconData = {
+export const thunderstormRegular: IconData = {
   name: 'thunderstorm',
   type: 'regular',
   category: 'misc',

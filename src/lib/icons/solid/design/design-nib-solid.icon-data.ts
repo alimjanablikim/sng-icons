@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Design Nib
  */
-export const designNibSolidIconData: IconData = {
+export const designNibSolid: IconData = {
   name: 'design-nib',
   type: 'solid',
   category: 'design',

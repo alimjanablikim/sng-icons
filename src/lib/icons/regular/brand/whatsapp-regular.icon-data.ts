@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Whatsapp
  */
-export const whatsappRegularIconData: IconData = {
+export const whatsappRegular: IconData = {
   name: 'whatsapp',
   type: 'regular',
   category: 'brand',

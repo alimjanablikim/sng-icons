@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Mouse Button Right
  */
-export const mouseButtonRightRegularIconData: IconData = {
+export const mouseButtonRightRegular: IconData = {
   name: 'mouse-button-right',
   type: 'regular',
   category: 'computer',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Align Justify
  */
-export const alignJustifyRegularIconData: IconData = {
+export const alignJustifyRegular: IconData = {
   name: 'align-justify',
   type: 'regular',
   category: 'design',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Gas Tank Droplet
  */
-export const gasTankDropletRegularIconData: IconData = {
+export const gasTankDropletRegular: IconData = {
   name: 'gas-tank-droplet',
   type: 'regular',
   category: 'energy',

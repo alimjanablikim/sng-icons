@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Sidebar Expand
  */
-export const sidebarExpandRegularIconData: IconData = {
+export const sidebarExpandRegular: IconData = {
   name: 'sidebar-expand',
   type: 'regular',
   category: 'design',

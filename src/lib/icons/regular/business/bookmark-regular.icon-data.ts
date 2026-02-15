@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Bookmark
  */
-export const bookmarkRegularIconData: IconData = {
+export const bookmarkRegular: IconData = {
   name: 'bookmark',
   type: 'regular',
   category: 'business',

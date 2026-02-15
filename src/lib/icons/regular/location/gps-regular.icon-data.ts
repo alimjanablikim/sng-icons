@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Gps
  */
-export const gpsRegularIconData: IconData = {
+export const gpsRegular: IconData = {
   name: 'gps',
   type: 'regular',
   category: 'location',

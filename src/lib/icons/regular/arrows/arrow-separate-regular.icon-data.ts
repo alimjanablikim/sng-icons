@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Arrow Separate
  */
-export const arrowSeparateRegularIconData: IconData = {
+export const arrowSeparateRegular: IconData = {
   name: 'arrow-separate',
   type: 'regular',
   category: 'arrows',

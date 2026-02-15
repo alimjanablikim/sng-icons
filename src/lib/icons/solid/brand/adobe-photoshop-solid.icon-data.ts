@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Adobe Photoshop
  */
-export const adobePhotoshopSolidIconData: IconData = {
+export const adobePhotoshopSolid: IconData = {
   name: 'adobe-photoshop',
   type: 'solid',
   category: 'brand',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Z Square
  */
-export const zSquareRegularIconData: IconData = {
+export const zSquareRegular: IconData = {
   name: 'z-square',
   type: 'regular',
   category: 'brand',

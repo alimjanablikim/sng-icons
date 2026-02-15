@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Wifi Warning
  */
-export const wifiWarningSolidIconData: IconData = {
+export const wifiWarningSolid: IconData = {
   name: 'wifi-warning',
   type: 'solid',
   category: 'devices',

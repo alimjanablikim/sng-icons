@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Journal Page
  */
-export const journalPageRegularIconData: IconData = {
+export const journalPageRegular: IconData = {
   name: 'journal-page',
   type: 'regular',
   category: 'documents-and-folders',

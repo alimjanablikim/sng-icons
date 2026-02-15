@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Eye
  */
-export const eyeSolidIconData: IconData = {
+export const eyeSolid: IconData = {
   name: 'eye',
   type: 'solid',
   category: 'controls',

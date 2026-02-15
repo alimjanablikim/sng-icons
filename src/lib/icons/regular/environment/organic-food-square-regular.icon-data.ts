@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Organic Food Square
  */
-export const organicFoodSquareRegularIconData: IconData = {
+export const organicFoodSquareRegular: IconData = {
   name: 'organic-food-square',
   type: 'regular',
   category: 'environment',

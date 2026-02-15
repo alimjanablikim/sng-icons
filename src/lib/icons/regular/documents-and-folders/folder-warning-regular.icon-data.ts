@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Folder Warning
  */
-export const folderWarningRegularIconData: IconData = {
+export const folderWarningRegular: IconData = {
   name: 'folder-warning',
   type: 'regular',
   category: 'documents-and-folders',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Cloud Square
  */
-export const cloudSquareSolidIconData: IconData = {
+export const cloudSquareSolid: IconData = {
   name: 'cloud-square',
   type: 'solid',
   category: 'cloud',

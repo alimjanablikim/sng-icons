@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Arrow Enlarge Tag
  */
-export const arrowEnlargeTagRegularIconData: IconData = {
+export const arrowEnlargeTagRegular: IconData = {
   name: 'arrow-enlarge-tag',
   type: 'regular',
   category: 'arrows',

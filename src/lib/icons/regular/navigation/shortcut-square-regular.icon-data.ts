@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Shortcut Square
  */
-export const shortcutSquareRegularIconData: IconData = {
+export const shortcutSquareRegular: IconData = {
   name: 'shortcut-square',
   type: 'regular',
   category: 'navigation',

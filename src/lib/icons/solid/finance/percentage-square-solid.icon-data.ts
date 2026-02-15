@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Percentage Square
  */
-export const percentageSquareSolidIconData: IconData = {
+export const percentageSquareSolid: IconData = {
   name: 'percentage-square',
   type: 'solid',
   category: 'finance',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Square Cursor
  */
-export const squareCursorSolidIconData: IconData = {
+export const squareCursorSolid: IconData = {
   name: 'square-cursor',
   type: 'solid',
   category: 'controls',

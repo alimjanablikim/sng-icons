@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Pc Check
  */
-export const pcCheckRegularIconData: IconData = {
+export const pcCheckRegular: IconData = {
   name: 'pc-check',
   type: 'regular',
   category: 'computer',

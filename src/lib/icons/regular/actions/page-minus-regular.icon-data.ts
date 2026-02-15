@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Page Minus
  */
-export const pageMinusRegularIconData: IconData = {
+export const pageMinusRegular: IconData = {
   name: 'page-minus',
   type: 'regular',
   category: 'actions',

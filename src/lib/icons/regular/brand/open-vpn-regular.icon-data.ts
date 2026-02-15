@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Open Vpn
  */
-export const openVpnRegularIconData: IconData = {
+export const openVpnRegular: IconData = {
   name: 'open-vpn',
   type: 'regular',
   category: 'brand',

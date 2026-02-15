@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Media Image Plus
  */
-export const mediaImagePlusRegularIconData: IconData = {
+export const mediaImagePlusRegular: IconData = {
   name: 'media-image-plus',
   type: 'regular',
   category: 'actions',

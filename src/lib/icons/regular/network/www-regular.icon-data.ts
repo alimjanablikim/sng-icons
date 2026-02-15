@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Www
  */
-export const wwwRegularIconData: IconData = {
+export const wwwRegular: IconData = {
   name: 'www',
   type: 'regular',
   category: 'network',

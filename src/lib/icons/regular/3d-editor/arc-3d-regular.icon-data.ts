@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Arc 3d
  */
-export const arc3dRegularIconData: IconData = {
+export const arc3dRegular: IconData = {
   name: 'arc-3d',
   type: 'regular',
   category: '3d-editor',

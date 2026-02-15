@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Panorama Enlarge
  */
-export const panoramaEnlargeRegularIconData: IconData = {
+export const panoramaEnlargeRegular: IconData = {
   name: 'panorama-enlarge',
   type: 'regular',
   category: 'design',

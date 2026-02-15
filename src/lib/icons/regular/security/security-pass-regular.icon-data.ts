@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Security Pass
  */
-export const securityPassRegularIconData: IconData = {
+export const securityPassRegular: IconData = {
   name: 'security-pass',
   type: 'regular',
   category: 'security',

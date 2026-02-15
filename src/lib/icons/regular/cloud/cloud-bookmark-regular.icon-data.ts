@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Cloud Bookmark
  */
-export const cloudBookmarkRegularIconData: IconData = {
+export const cloudBookmarkRegular: IconData = {
   name: 'cloud-bookmark',
   type: 'regular',
   category: 'cloud',

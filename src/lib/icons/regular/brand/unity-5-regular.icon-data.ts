@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Unity 5
  */
-export const unity5RegularIconData: IconData = {
+export const unity5Regular: IconData = {
   name: 'unity-5',
   type: 'regular',
   category: 'brand',

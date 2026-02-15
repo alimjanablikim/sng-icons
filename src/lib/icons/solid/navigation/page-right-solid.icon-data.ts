@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Page Right
  */
-export const pageRightSolidIconData: IconData = {
+export const pageRightSolid: IconData = {
   name: 'page-right',
   type: 'solid',
   category: 'navigation',

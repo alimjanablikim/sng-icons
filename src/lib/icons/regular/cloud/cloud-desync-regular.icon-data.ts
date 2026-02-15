@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Cloud Desync
  */
-export const cloudDesyncRegularIconData: IconData = {
+export const cloudDesyncRegular: IconData = {
   name: 'cloud-desync',
   type: 'regular',
   category: 'cloud',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name U Turn Arrow Left
  */
-export const uTurnArrowLeftRegularIconData: IconData = {
+export const uTurnArrowLeftRegular: IconData = {
   name: 'u-turn-arrow-left',
   type: 'regular',
   category: 'arrows',

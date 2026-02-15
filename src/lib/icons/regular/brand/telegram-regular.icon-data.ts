@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Telegram
  */
-export const telegramRegularIconData: IconData = {
+export const telegramRegular: IconData = {
   name: 'telegram',
   type: 'regular',
   category: 'brand',

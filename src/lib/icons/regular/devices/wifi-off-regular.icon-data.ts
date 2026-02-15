@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Wifi Off
  */
-export const wifiOffRegularIconData: IconData = {
+export const wifiOffRegular: IconData = {
   name: 'wifi-off',
   type: 'regular',
   category: 'devices',

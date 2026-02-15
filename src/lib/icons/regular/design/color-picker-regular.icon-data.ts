@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Color Picker
  */
-export const colorPickerRegularIconData: IconData = {
+export const colorPickerRegular: IconData = {
   name: 'color-picker',
   type: 'regular',
   category: 'design',

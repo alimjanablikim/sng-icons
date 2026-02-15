@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Keyframes Plus
  */
-export const keyframesPlusRegularIconData: IconData = {
+export const keyframesPlusRegular: IconData = {
   name: 'keyframes-plus',
   type: 'regular',
   category: 'design',

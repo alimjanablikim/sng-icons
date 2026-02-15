@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Rounded Mirror
  */
-export const roundedMirrorRegularIconData: IconData = {
+export const roundedMirrorRegular: IconData = {
   name: 'rounded-mirror',
   type: 'regular',
   category: 'home',

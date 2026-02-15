@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Maps Turn Left
  */
-export const mapsTurnLeftRegularIconData: IconData = {
+export const mapsTurnLeftRegular: IconData = {
   name: 'maps-turn-left',
   type: 'regular',
   category: 'location',

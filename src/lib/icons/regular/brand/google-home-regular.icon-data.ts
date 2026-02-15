@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Google Home
  */
-export const googleHomeRegularIconData: IconData = {
+export const googleHomeRegular: IconData = {
   name: 'google-home',
   type: 'regular',
   category: 'brand',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Arrow Email Forward
  */
-export const arrowEmailForwardRegularIconData: IconData = {
+export const arrowEmailForwardRegular: IconData = {
   name: 'arrow-email-forward',
   type: 'regular',
   category: 'arrows',

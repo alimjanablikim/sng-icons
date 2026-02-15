@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name More Vert Circle
  */
-export const moreVertCircleRegularIconData: IconData = {
+export const moreVertCircleRegular: IconData = {
   name: 'more-vert-circle',
   type: 'regular',
   category: 'controls',

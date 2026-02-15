@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Database Backup
  */
-export const databaseBackupRegularIconData: IconData = {
+export const databaseBackupRegular: IconData = {
   name: 'database-backup',
   type: 'regular',
   category: 'finance',

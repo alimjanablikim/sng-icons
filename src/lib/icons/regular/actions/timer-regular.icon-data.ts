@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Timer
  */
-export const timerRegularIconData: IconData = {
+export const timerRegular: IconData = {
   name: 'timer',
   type: 'regular',
   category: 'actions',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Linux
  */
-export const linuxRegularIconData: IconData = {
+export const linuxRegular: IconData = {
   name: 'linux',
   type: 'regular',
   category: 'brand',

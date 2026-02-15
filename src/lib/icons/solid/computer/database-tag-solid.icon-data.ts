@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Database Tag
  */
-export const databaseTagSolidIconData: IconData = {
+export const databaseTagSolid: IconData = {
   name: 'database-tag',
   type: 'solid',
   category: 'computer',

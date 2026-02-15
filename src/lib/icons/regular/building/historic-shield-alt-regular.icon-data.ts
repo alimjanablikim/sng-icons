@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Historic Shield Alt
  */
-export const historicShieldAltRegularIconData: IconData = {
+export const historicShieldAltRegular: IconData = {
   name: 'historic-shield-alt',
   type: 'regular',
   category: 'building',

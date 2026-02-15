@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Vr Tag
  */
-export const vrTagRegularIconData: IconData = {
+export const vrTagRegular: IconData = {
   name: 'vr-tag',
   type: 'regular',
   category: 'devices',

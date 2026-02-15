@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Database Xmark
  */
-export const databaseXmarkRegularIconData: IconData = {
+export const databaseXmarkRegular: IconData = {
   name: 'database-xmark',
   type: 'regular',
   category: 'network',

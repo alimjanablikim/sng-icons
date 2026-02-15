@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Intersect Alt
  */
-export const intersectAltRegularIconData: IconData = {
+export const intersectAltRegular: IconData = {
   name: 'intersect-alt',
   type: 'regular',
   category: 'design',

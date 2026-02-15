@@ -1,8 +1,8 @@
 {
-  "name": "@chill-wind/icons",
+  "name": "@shadng/sng-icons",
   "version": "2.0.1",
-  "homepage": "https://alimjanablikim.github.io/chill-wind-icons/",
-  "description": "Dynamic Angular icon library with native Tailwind CSS support, tree-shakeable icon data, and built from Iconoir SVGs.",
+  "homepage": "https://shadng.js.org/icons",
+  "description": "ShadNG Angular icon library generated from SVG sources.",
   "author": "Alimjan Ablikim",
   "license": "MIT",
   "repository": {
@@ -25,14 +25,17 @@
     "typescript"
   ],
   "peerDependencies": {
-    "@angular/core": "^17.0.0 || ^21.0.0",
-    "@angular/common": "^17.0.0 || ^21.0.0",
-    "@angular/platform-browser": "^17.0.0 || ^21.0.0"
+    "@angular/common": "^21.0.0",
+    "@angular/core": "^21.0.0",
+    "@angular/platform-browser": "^21.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
   },
   "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "npx ng-packagr",
     "prepublishOnly": "npm run build"

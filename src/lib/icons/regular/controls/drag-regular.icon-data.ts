@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Drag
  */
-export const dragRegularIconData: IconData = {
+export const dragRegular: IconData = {
   name: 'drag',
   type: 'regular',
   category: 'controls',

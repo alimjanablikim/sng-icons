@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Snapchat
  */
-export const snapchatRegularIconData: IconData = {
+export const snapchatRegular: IconData = {
   name: 'snapchat',
   type: 'regular',
   category: 'brand',

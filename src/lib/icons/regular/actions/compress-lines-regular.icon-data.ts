@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Compress Lines
  */
-export const compressLinesRegularIconData: IconData = {
+export const compressLinesRegular: IconData = {
   name: 'compress-lines',
   type: 'regular',
   category: 'actions',

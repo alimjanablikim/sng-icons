@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Tiktok
  */
-export const tiktokSolidIconData: IconData = {
+export const tiktokSolid: IconData = {
   name: 'tiktok',
   type: 'solid',
   category: 'brand',

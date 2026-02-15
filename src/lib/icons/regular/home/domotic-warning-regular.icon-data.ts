@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Domotic Warning
  */
-export const domoticWarningRegularIconData: IconData = {
+export const domoticWarningRegular: IconData = {
   name: 'domotic-warning',
   type: 'regular',
   category: 'home',

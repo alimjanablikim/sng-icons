@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Rotate Camera Left
  */
-export const rotateCameraLeftRegularIconData: IconData = {
+export const rotateCameraLeftRegular: IconData = {
   name: 'rotate-camera-left',
   type: 'regular',
   category: 'actions',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Frame Select
  */
-export const frameSelectRegularIconData: IconData = {
+export const frameSelectRegular: IconData = {
   name: 'frame-select',
   type: 'regular',
   category: 'actions',

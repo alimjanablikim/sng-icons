@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Png Format
  */
-export const pngFormatRegularIconData: IconData = {
+export const pngFormatRegular: IconData = {
   name: 'png-format',
   type: 'regular',
   category: 'files',

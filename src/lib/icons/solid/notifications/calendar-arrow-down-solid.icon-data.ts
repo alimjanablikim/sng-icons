@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Calendar Arrow Down
  */
-export const calendarArrowDownSolidIconData: IconData = {
+export const calendarArrowDownSolid: IconData = {
   name: 'calendar-arrow-down',
   type: 'solid',
   category: 'notifications',

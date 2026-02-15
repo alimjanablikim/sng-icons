@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Flare
  */
-export const flareRegularIconData: IconData = {
+export const flareRegular: IconData = {
   name: 'flare',
   type: 'regular',
   category: 'actions',

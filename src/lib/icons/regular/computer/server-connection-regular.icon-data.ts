@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Server Connection
  */
-export const serverConnectionRegularIconData: IconData = {
+export const serverConnectionRegular: IconData = {
   name: 'server-connection',
   type: 'regular',
   category: 'computer',

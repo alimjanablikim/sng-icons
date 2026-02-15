@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Infinite
  */
-export const infiniteRegularIconData: IconData = {
+export const infiniteRegular: IconData = {
   name: 'infinite',
   type: 'regular',
   category: 'misc',

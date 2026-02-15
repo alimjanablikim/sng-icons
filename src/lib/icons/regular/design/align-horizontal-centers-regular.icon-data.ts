@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Align Horizontal Centers
  */
-export const alignHorizontalCentersRegularIconData: IconData = {
+export const alignHorizontalCentersRegular: IconData = {
   name: 'align-horizontal-centers',
   type: 'regular',
   category: 'design',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Calendar Plus
  */
-export const calendarPlusSolidIconData: IconData = {
+export const calendarPlusSolid: IconData = {
   name: 'calendar-plus',
   type: 'solid',
   category: 'notifications',

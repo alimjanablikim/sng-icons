@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Tiff Format
  */
-export const tiffFormatRegularIconData: IconData = {
+export const tiffFormatRegular: IconData = {
   name: 'tiff-format',
   type: 'regular',
   category: 'files',

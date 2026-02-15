@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Page Up
  */
-export const pageUpSolidIconData: IconData = {
+export const pageUpSolid: IconData = {
   name: 'page-up',
   type: 'solid',
   category: 'navigation',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Maps Arrow Diagonal
  */
-export const mapsArrowDiagonalRegularIconData: IconData = {
+export const mapsArrowDiagonalRegular: IconData = {
   name: 'maps-arrow-diagonal',
   type: 'regular',
   category: 'location',

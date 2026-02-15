@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Bubble Search
  */
-export const bubbleSearchRegularIconData: IconData = {
+export const bubbleSearchRegular: IconData = {
   name: 'bubble-search',
   type: 'regular',
   category: 'communication',

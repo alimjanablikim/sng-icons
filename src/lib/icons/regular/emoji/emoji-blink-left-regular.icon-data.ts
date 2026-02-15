@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Emoji Blink Left
  */
-export const emojiBlinkLeftRegularIconData: IconData = {
+export const emojiBlinkLeftRegular: IconData = {
   name: 'emoji-blink-left',
   type: 'regular',
   category: 'emoji',

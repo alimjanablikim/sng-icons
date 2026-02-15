@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Headset
  */
-export const headsetRegularIconData: IconData = {
+export const headsetRegular: IconData = {
   name: 'headset',
   type: 'regular',
   category: 'devices',

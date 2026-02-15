@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Cable Tag
  */
-export const cableTagSolidIconData: IconData = {
+export const cableTagSolid: IconData = {
   name: 'cable-tag',
   type: 'solid',
   category: 'network',

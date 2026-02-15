@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Union Horiz Alt
  */
-export const unionHorizAltRegularIconData: IconData = {
+export const unionHorizAltRegular: IconData = {
   name: 'union-horiz-alt',
   type: 'regular',
   category: 'design',

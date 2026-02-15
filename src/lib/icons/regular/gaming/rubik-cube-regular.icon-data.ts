@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Rubik Cube
  */
-export const rubikCubeRegularIconData: IconData = {
+export const rubikCubeRegular: IconData = {
   name: 'rubik-cube',
   type: 'regular',
   category: 'gaming',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Layout Left
  */
-export const layoutLeftRegularIconData: IconData = {
+export const layoutLeftRegular: IconData = {
   name: 'layout-left',
   type: 'regular',
   category: 'design',

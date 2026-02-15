@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Adobe Lightroom
  */
-export const adobeLightroomRegularIconData: IconData = {
+export const adobeLightroomRegular: IconData = {
   name: 'adobe-lightroom',
   type: 'regular',
   category: 'brand',

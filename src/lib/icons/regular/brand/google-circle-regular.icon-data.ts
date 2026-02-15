@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Google Circle
  */
-export const googleCircleRegularIconData: IconData = {
+export const googleCircleRegular: IconData = {
   name: 'google-circle',
   type: 'regular',
   category: 'brand',

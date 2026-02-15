@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Upload Data Window
  */
-export const uploadDataWindowRegularIconData: IconData = {
+export const uploadDataWindowRegular: IconData = {
   name: 'upload-data-window',
   type: 'regular',
   category: 'actions',

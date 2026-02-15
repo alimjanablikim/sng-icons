@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Stats Down Square
  */
-export const statsDownSquareSolidIconData: IconData = {
+export const statsDownSquareSolid: IconData = {
   name: 'stats-down-square',
   type: 'solid',
   category: 'charts-and-diagrams',

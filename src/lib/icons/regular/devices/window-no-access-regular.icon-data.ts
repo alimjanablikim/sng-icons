@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Window No Access
  */
-export const windowNoAccessRegularIconData: IconData = {
+export const windowNoAccessRegular: IconData = {
   name: 'window-no-access',
   type: 'regular',
   category: 'devices',

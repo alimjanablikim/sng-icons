@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Adobe Illustrator
  */
-export const adobeIllustratorRegularIconData: IconData = {
+export const adobeIllustratorRegular: IconData = {
   name: 'adobe-illustrator',
   type: 'regular',
   category: 'brand',

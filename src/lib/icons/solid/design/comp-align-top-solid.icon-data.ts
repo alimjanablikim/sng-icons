@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Comp Align Top
  */
-export const compAlignTopSolidIconData: IconData = {
+export const compAlignTopSolid: IconData = {
   name: 'comp-align-top',
   type: 'solid',
   category: 'design',

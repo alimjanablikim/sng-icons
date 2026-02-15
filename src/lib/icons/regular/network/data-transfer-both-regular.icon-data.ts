@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Data Transfer Both
  */
-export const dataTransferBothRegularIconData: IconData = {
+export const dataTransferBothRegular: IconData = {
   name: 'data-transfer-both',
   type: 'regular',
   category: 'network',

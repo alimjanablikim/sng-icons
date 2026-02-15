@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Calendar Minus
  */
-export const calendarMinusRegularIconData: IconData = {
+export const calendarMinusRegular: IconData = {
   name: 'calendar-minus',
   type: 'regular',
   category: 'business',

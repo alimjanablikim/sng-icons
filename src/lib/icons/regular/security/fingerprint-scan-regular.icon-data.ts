@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Fingerprint Scan
  */
-export const fingerprintScanRegularIconData: IconData = {
+export const fingerprintScanRegular: IconData = {
   name: 'fingerprint-scan',
   type: 'regular',
   category: 'security',

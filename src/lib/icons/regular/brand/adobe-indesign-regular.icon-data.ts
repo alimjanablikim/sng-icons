@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Adobe Indesign
  */
-export const adobeIndesignRegularIconData: IconData = {
+export const adobeIndesignRegular: IconData = {
   name: 'adobe-indesign',
   type: 'regular',
   category: 'brand',

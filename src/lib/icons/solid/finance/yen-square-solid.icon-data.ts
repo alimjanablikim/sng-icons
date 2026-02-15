@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Yen Square
  */
-export const yenSquareSolidIconData: IconData = {
+export const yenSquareSolid: IconData = {
   name: 'yen-square',
   type: 'solid',
   category: 'finance',

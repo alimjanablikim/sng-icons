@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Submit Document
  */
-export const submitDocumentRegularIconData: IconData = {
+export const submitDocumentRegular: IconData = {
   name: 'submit-document',
   type: 'regular',
   category: 'actions',

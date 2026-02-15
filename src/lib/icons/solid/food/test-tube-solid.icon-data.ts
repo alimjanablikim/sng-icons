@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Test Tube
  */
-export const testTubeSolidIconData: IconData = {
+export const testTubeSolid: IconData = {
   name: 'test-tube',
   type: 'solid',
   category: 'food',

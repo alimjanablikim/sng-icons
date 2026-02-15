@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Bluetooth Tag
  */
-export const bluetoothTagSolidIconData: IconData = {
+export const bluetoothTagSolid: IconData = {
   name: 'bluetooth-tag',
   type: 'solid',
   category: 'network',

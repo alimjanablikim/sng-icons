@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Design Nib
  */
-export const designNibRegularIconData: IconData = {
+export const designNibRegular: IconData = {
   name: 'design-nib',
   type: 'regular',
   category: 'design',

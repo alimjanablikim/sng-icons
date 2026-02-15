@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Multiple Pages Plus
  */
-export const multiplePagesPlusRegularIconData: IconData = {
+export const multiplePagesPlusRegular: IconData = {
   name: 'multiple-pages-plus',
   type: 'regular',
   category: 'documents-and-folders',

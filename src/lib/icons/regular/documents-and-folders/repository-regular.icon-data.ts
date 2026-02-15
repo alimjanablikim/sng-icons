@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Repository
  */
-export const repositoryRegularIconData: IconData = {
+export const repositoryRegular: IconData = {
   name: 'repository',
   type: 'regular',
   category: 'documents-and-folders',

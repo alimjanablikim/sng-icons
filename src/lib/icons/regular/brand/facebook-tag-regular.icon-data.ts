@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Facebook Tag
  */
-export const facebookTagRegularIconData: IconData = {
+export const facebookTagRegular: IconData = {
   name: 'facebook-tag',
   type: 'regular',
   category: 'brand',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Rings
  */
-export const ringsRegularIconData: IconData = {
+export const ringsRegular: IconData = {
   name: 'rings',
   type: 'regular',
   category: 'misc',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Music Note Plus
  */
-export const musicNotePlusSolidIconData: IconData = {
+export const musicNotePlusSolid: IconData = {
   name: 'music-note-plus',
   type: 'solid',
   category: 'media',

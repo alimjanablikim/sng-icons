@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Filter Alt
  */
-export const filterAltRegularIconData: IconData = {
+export const filterAltRegular: IconData = {
   name: 'filter-alt',
   type: 'regular',
   category: 'actions',

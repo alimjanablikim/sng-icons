@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Svg Format
  */
-export const svgFormatRegularIconData: IconData = {
+export const svgFormatRegular: IconData = {
   name: 'svg-format',
   type: 'regular',
   category: 'files',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Hdr
  */
-export const hdrRegularIconData: IconData = {
+export const hdrRegular: IconData = {
   name: 'hdr',
   type: 'regular',
   category: 'devices',

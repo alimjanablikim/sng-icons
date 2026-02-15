@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Time Zone
  */
-export const timeZoneRegularIconData: IconData = {
+export const timeZoneRegular: IconData = {
   name: 'time-zone',
   type: 'regular',
   category: 'location',

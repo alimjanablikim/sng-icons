@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Password Cursor
  */
-export const passwordCursorRegularIconData: IconData = {
+export const passwordCursorRegular: IconData = {
   name: 'password-cursor',
   type: 'regular',
   category: 'security',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Align Top Box
  */
-export const alignTopBoxRegularIconData: IconData = {
+export const alignTopBoxRegular: IconData = {
   name: 'align-top-box',
   type: 'regular',
   category: 'design',

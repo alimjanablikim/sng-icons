@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Vertical Merge
  */
-export const verticalMergeRegularIconData: IconData = {
+export const verticalMergeRegular: IconData = {
   name: 'vertical-merge',
   type: 'regular',
   category: 'design',

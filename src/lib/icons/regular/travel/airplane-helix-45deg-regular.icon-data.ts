@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Airplane Helix 45deg
  */
-export const airplaneHelix45degRegularIconData: IconData = {
+export const airplaneHelix45degRegular: IconData = {
   name: 'airplane-helix-45deg',
   type: 'regular',
   category: 'travel',

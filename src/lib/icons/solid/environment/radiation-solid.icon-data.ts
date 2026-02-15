@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Radiation
  */
-export const radiationSolidIconData: IconData = {
+export const radiationSolid: IconData = {
   name: 'radiation',
   type: 'solid',
   category: 'environment',

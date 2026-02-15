@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Favourite Window
  */
-export const favouriteWindowRegularIconData: IconData = {
+export const favouriteWindowRegular: IconData = {
   name: 'favourite-window',
   type: 'regular',
   category: 'misc',

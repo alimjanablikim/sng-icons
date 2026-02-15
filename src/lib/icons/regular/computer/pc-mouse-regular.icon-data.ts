@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Pc Mouse
  */
-export const pcMouseRegularIconData: IconData = {
+export const pcMouseRegular: IconData = {
   name: 'pc-mouse',
   type: 'regular',
   category: 'computer',

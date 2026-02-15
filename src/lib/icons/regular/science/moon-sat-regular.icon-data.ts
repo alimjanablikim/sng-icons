@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Moon Sat
  */
-export const moonSatRegularIconData: IconData = {
+export const moonSatRegular: IconData = {
   name: 'moon-sat',
   type: 'regular',
   category: 'science',

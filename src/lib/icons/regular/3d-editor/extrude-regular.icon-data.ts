@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Extrude
  */
-export const extrudeRegularIconData: IconData = {
+export const extrudeRegular: IconData = {
   name: 'extrude',
   type: 'regular',
   category: '3d-editor',

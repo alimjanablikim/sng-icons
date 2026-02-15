@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Frame
  */
-export const frameRegularIconData: IconData = {
+export const frameRegular: IconData = {
   name: 'frame',
   type: 'regular',
   category: 'design',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Clock
  */
-export const clockSolidIconData: IconData = {
+export const clockSolid: IconData = {
   name: 'clock',
   type: 'solid',
   category: 'time',

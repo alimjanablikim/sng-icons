@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Network Reverse
  */
-export const networkReverseSolidIconData: IconData = {
+export const networkReverseSolid: IconData = {
   name: 'network-reverse',
   type: 'solid',
   category: 'network',

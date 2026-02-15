@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Iris Scan
  */
-export const irisScanRegularIconData: IconData = {
+export const irisScanRegular: IconData = {
   name: 'iris-scan',
   type: 'regular',
   category: 'security',

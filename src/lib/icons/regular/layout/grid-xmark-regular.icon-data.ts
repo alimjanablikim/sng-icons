@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Grid Xmark
  */
-export const gridXmarkRegularIconData: IconData = {
+export const gridXmarkRegular: IconData = {
   name: 'grid-xmark',
   type: 'regular',
   category: 'layout',

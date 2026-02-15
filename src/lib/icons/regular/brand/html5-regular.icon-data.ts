@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Html5
  */
-export const html5RegularIconData: IconData = {
+export const html5Regular: IconData = {
   name: 'html5',
   type: 'regular',
   category: 'brand',

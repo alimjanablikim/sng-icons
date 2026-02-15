@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Webp Format
  */
-export const webpFormatRegularIconData: IconData = {
+export const webpFormatRegular: IconData = {
   name: 'webp-format',
   type: 'regular',
   category: 'files',

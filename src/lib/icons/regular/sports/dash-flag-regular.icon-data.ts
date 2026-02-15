@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Dash Flag
  */
-export const dashFlagRegularIconData: IconData = {
+export const dashFlagRegular: IconData = {
   name: 'dash-flag',
   type: 'regular',
   category: 'sports',

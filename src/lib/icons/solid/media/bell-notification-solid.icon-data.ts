@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Bell Notification
  */
-export const bellNotificationSolidIconData: IconData = {
+export const bellNotificationSolid: IconData = {
   name: 'bell-notification',
   type: 'solid',
   category: 'media',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Half Cookie
  */
-export const halfCookieRegularIconData: IconData = {
+export const halfCookieRegular: IconData = {
   name: 'half-cookie',
   type: 'regular',
   category: 'food',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Corner Top Right
  */
-export const cornerTopRightRegularIconData: IconData = {
+export const cornerTopRightRegular: IconData = {
   name: 'corner-top-right',
   type: 'regular',
   category: 'layout',

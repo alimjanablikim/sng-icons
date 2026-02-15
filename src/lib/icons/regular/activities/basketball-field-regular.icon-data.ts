@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Basketball Field
  */
-export const basketballFieldRegularIconData: IconData = {
+export const basketballFieldRegular: IconData = {
   name: 'basketball-field',
   type: 'regular',
   category: 'activities',

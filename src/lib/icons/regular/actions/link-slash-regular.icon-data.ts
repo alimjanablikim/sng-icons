@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Link Slash
  */
-export const linkSlashRegularIconData: IconData = {
+export const linkSlashRegular: IconData = {
   name: 'link-slash',
   type: 'regular',
   category: 'actions',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Undo Circle
  */
-export const undoCircleRegularIconData: IconData = {
+export const undoCircleRegular: IconData = {
   name: 'undo-circle',
   type: 'regular',
   category: 'arrows',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Align Vertical Spacing
  */
-export const alignVerticalSpacingRegularIconData: IconData = {
+export const alignVerticalSpacingRegular: IconData = {
   name: 'align-vertical-spacing',
   type: 'regular',
   category: 'design',

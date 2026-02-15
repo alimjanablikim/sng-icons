@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Fx Tag
  */
-export const fxTagSolidIconData: IconData = {
+export const fxTagSolid: IconData = {
   name: 'fx-tag',
   type: 'solid',
   category: 'editing',

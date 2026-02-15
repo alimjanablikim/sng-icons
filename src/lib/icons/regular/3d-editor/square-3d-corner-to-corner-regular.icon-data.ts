@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Square 3d Corner To Corner
  */
-export const square3dCornerToCornerRegularIconData: IconData = {
+export const square3dCornerToCornerRegular: IconData = {
   name: 'square-3d-corner-to-corner',
   type: 'regular',
   category: '3d-editor',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Youtube
  */
-export const youtubeSolidIconData: IconData = {
+export const youtubeSolid: IconData = {
   name: 'youtube',
   type: 'solid',
   category: 'brand',

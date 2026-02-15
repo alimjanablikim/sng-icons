@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Unjoin 3d
  */
-export const unjoin3dRegularIconData: IconData = {
+export const unjoin3dRegular: IconData = {
   name: 'unjoin-3d',
   type: 'regular',
   category: '3d-editor',

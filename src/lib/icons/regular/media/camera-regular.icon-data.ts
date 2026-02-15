@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Camera
  */
-export const cameraRegularIconData: IconData = {
+export const cameraRegular: IconData = {
   name: 'camera',
   type: 'regular',
   category: 'media',

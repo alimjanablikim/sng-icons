@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Pause
  */
-export const pauseSolidIconData: IconData = {
+export const pauseSolid: IconData = {
   name: 'pause',
   type: 'solid',
   category: 'actions',

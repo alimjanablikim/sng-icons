@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Input Output
  */
-export const inputOutputRegularIconData: IconData = {
+export const inputOutputRegular: IconData = {
   name: 'input-output',
   type: 'regular',
   category: 'actions',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Bounce Left
  */
-export const bounceLeftRegularIconData: IconData = {
+export const bounceLeftRegular: IconData = {
   name: 'bounce-left',
   type: 'regular',
   category: 'arrows',

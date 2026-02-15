@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Color Wheel
  */
-export const colorWheelRegularIconData: IconData = {
+export const colorWheelRegular: IconData = {
   name: 'color-wheel',
   type: 'regular',
   category: 'design',

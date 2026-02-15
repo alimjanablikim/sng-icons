@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Peerlist
  */
-export const peerlistRegularIconData: IconData = {
+export const peerlistRegular: IconData = {
   name: 'peerlist',
   type: 'regular',
   category: 'brand',

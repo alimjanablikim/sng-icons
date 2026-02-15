@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Hexagon Dice
  */
-export const hexagonDiceRegularIconData: IconData = {
+export const hexagonDiceRegular: IconData = {
   name: 'hexagon-dice',
   type: 'regular',
   category: 'gaming',

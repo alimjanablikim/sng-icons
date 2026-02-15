@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Nav Arrow Right
  */
-export const navArrowRightRegularIconData: IconData = {
+export const navArrowRightRegular: IconData = {
   name: 'nav-arrow-right',
   type: 'regular',
   category: 'arrows',

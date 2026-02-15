@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Flask
  */
-export const flaskRegularIconData: IconData = {
+export const flaskRegular: IconData = {
   name: 'flask',
   type: 'regular',
   category: 'food',

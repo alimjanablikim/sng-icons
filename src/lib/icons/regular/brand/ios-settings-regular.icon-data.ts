@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Ios Settings
  */
-export const iosSettingsRegularIconData: IconData = {
+export const iosSettingsRegular: IconData = {
   name: 'ios-settings',
   type: 'regular',
   category: 'brand',

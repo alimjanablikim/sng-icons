@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Keyframe Align Horizontal
  */
-export const keyframeAlignHorizontalSolidIconData: IconData = {
+export const keyframeAlignHorizontalSolid: IconData = {
   name: 'keyframe-align-horizontal',
   type: 'solid',
   category: 'actions',

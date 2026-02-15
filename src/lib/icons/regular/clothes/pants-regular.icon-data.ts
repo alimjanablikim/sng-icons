@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Pants
  */
-export const pantsRegularIconData: IconData = {
+export const pantsRegular: IconData = {
   name: 'pants',
   type: 'regular',
   category: 'clothes',

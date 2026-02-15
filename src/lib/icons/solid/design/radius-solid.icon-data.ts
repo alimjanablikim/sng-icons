@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Radius
  */
-export const radiusSolidIconData: IconData = {
+export const radiusSolid: IconData = {
   name: 'radius',
   type: 'solid',
   category: 'design',

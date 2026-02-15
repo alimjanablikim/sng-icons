@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Vegan Circle
  */
-export const veganCircleRegularIconData: IconData = {
+export const veganCircleRegular: IconData = {
   name: 'vegan-circle',
   type: 'regular',
   category: 'environment',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Doc Magnifying Glass
  */
-export const docMagnifyingGlassRegularIconData: IconData = {
+export const docMagnifyingGlassRegular: IconData = {
   name: 'doc-magnifying-glass',
   type: 'regular',
   category: 'documents-and-folders',

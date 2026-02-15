@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Calendar Check
  */
-export const calendarCheckSolidIconData: IconData = {
+export const calendarCheckSolid: IconData = {
   name: 'calendar-check',
   type: 'solid',
   category: 'notifications',

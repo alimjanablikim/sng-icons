@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Secure Window
  */
-export const secureWindowRegularIconData: IconData = {
+export const secureWindowRegular: IconData = {
   name: 'secure-window',
   type: 'regular',
   category: 'devices',

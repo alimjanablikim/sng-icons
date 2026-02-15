@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Number 8 Square
  */
-export const number8SquareRegularIconData: IconData = {
+export const number8SquareRegular: IconData = {
   name: 'number-8-square',
   type: 'regular',
   category: 'other',

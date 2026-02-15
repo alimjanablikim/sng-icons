@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Page Flip
  */
-export const pageFlipRegularIconData: IconData = {
+export const pageFlipRegular: IconData = {
   name: 'page-flip',
   type: 'regular',
   category: 'actions',

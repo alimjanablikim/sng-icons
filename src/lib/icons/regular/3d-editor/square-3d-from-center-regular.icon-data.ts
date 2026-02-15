@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Square 3d From Center
  */
-export const square3dFromCenterRegularIconData: IconData = {
+export const square3dFromCenterRegular: IconData = {
   name: 'square-3d-from-center',
   type: 'regular',
   category: '3d-editor',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Select Edge 3d
  */
-export const selectEdge3dRegularIconData: IconData = {
+export const selectEdge3dRegular: IconData = {
   name: 'select-edge-3d',
   type: 'regular',
   category: '3d-editor',

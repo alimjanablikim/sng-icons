@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Keyframe Minus In
  */
-export const keyframeMinusInRegularIconData: IconData = {
+export const keyframeMinusInRegular: IconData = {
   name: 'keyframe-minus-in',
   type: 'regular',
   category: 'design',

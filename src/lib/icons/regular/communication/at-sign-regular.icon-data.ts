@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name At Sign
  */
-export const atSignRegularIconData: IconData = {
+export const atSignRegular: IconData = {
   name: 'at-sign',
   type: 'regular',
   category: 'communication',

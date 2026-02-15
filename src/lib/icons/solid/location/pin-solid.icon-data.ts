@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Pin
  */
-export const pinSolidIconData: IconData = {
+export const pinSolid: IconData = {
   name: 'pin',
   type: 'solid',
   category: 'location',

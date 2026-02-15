@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Combine
  */
-export const combineRegularIconData: IconData = {
+export const combineRegular: IconData = {
   name: 'combine',
   type: 'regular',
   category: 'design',

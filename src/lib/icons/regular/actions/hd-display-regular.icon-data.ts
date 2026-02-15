@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Hd Display
  */
-export const hdDisplayRegularIconData: IconData = {
+export const hdDisplayRegular: IconData = {
   name: 'hd-display',
   type: 'regular',
   category: 'actions',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Finder
  */
-export const finderRegularIconData: IconData = {
+export const finderRegular: IconData = {
   name: 'finder',
   type: 'regular',
   category: 'brand',

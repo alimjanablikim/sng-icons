@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Swipe Two Fingers Up Gesture
  */
-export const swipeTwoFingersUpGestureRegularIconData: IconData = {
+export const swipeTwoFingersUpGestureRegular: IconData = {
   name: 'swipe-two-fingers-up-gesture',
   type: 'regular',
   category: 'controls',

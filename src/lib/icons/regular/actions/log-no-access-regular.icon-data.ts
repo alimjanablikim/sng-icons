@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Log No Access
  */
-export const logNoAccessRegularIconData: IconData = {
+export const logNoAccessRegular: IconData = {
   name: 'log-no-access',
   type: 'regular',
   category: 'actions',

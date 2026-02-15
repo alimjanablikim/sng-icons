@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name White Flag
  */
-export const whiteFlagSolidIconData: IconData = {
+export const whiteFlagSolid: IconData = {
   name: 'white-flag',
   type: 'solid',
   category: 'misc',

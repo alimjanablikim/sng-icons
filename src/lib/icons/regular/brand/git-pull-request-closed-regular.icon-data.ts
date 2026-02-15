@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Git Pull Request Closed
  */
-export const gitPullRequestClosedRegularIconData: IconData = {
+export const gitPullRequestClosedRegular: IconData = {
   name: 'git-pull-request-closed',
   type: 'regular',
   category: 'brand',

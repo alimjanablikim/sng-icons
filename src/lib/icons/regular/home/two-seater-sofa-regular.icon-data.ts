@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Two Seater Sofa
  */
-export const twoSeaterSofaRegularIconData: IconData = {
+export const twoSeaterSofaRegular: IconData = {
   name: 'two-seater-sofa',
   type: 'regular',
   category: 'home',

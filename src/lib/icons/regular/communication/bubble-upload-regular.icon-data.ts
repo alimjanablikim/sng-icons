@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Bubble Upload
  */
-export const bubbleUploadRegularIconData: IconData = {
+export const bubbleUploadRegular: IconData = {
   name: 'bubble-upload',
   type: 'regular',
   category: 'communication',

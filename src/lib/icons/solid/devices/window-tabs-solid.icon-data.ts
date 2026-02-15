@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Window Tabs
  */
-export const windowTabsSolidIconData: IconData = {
+export const windowTabsSolid: IconData = {
   name: 'window-tabs',
   type: 'solid',
   category: 'devices',

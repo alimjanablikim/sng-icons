@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Axes
  */
-export const axesRegularIconData: IconData = {
+export const axesRegular: IconData = {
   name: 'axes',
   type: 'regular',
   category: 'misc',

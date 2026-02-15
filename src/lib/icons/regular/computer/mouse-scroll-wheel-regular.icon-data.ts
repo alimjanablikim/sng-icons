@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Mouse Scroll Wheel
  */
-export const mouseScrollWheelRegularIconData: IconData = {
+export const mouseScrollWheelRegular: IconData = {
   name: 'mouse-scroll-wheel',
   type: 'regular',
   category: 'computer',

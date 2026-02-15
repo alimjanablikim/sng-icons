@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Ip Address Tag
  */
-export const ipAddressTagRegularIconData: IconData = {
+export const ipAddressTagRegular: IconData = {
   name: 'ip-address-tag',
   type: 'regular',
   category: 'misc',

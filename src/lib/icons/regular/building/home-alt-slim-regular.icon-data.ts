@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Home Alt Slim
  */
-export const homeAltSlimRegularIconData: IconData = {
+export const homeAltSlimRegular: IconData = {
   name: 'home-alt-slim',
   type: 'regular',
   category: 'building',

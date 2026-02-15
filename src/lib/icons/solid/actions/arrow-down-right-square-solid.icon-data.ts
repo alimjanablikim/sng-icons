@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Arrow Down Right Square
  */
-export const arrowDownRightSquareSolidIconData: IconData = {
+export const arrowDownRightSquareSolid: IconData = {
   name: 'arrow-down-right-square',
   type: 'solid',
   category: 'actions',

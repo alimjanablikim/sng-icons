@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Cell 2x2
  */
-export const cell2x2RegularIconData: IconData = {
+export const cell2x2Regular: IconData = {
   name: 'cell-2x2',
   type: 'regular',
   category: 'layout',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Flip Reverse
  */
-export const flipReverseRegularIconData: IconData = {
+export const flipReverseRegular: IconData = {
   name: 'flip-reverse',
   type: 'regular',
   category: 'actions',

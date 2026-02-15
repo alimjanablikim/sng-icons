@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Zoom In
  */
-export const zoomInRegularIconData: IconData = {
+export const zoomInRegular: IconData = {
   name: 'zoom-in',
   type: 'regular',
   category: 'actions',

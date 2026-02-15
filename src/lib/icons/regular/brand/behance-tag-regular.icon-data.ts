@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Behance Tag
  */
-export const behanceTagRegularIconData: IconData = {
+export const behanceTagRegular: IconData = {
   name: 'behance-tag',
   type: 'regular',
   category: 'brand',

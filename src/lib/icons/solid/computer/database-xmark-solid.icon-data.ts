@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Database Xmark
  */
-export const databaseXmarkSolidIconData: IconData = {
+export const databaseXmarkSolid: IconData = {
   name: 'database-xmark',
   type: 'solid',
   category: 'computer',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Yelp
  */
-export const yelpRegularIconData: IconData = {
+export const yelpRegular: IconData = {
   name: 'yelp',
   type: 'regular',
   category: 'brand',

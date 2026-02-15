@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Task List
  */
-export const taskListRegularIconData: IconData = {
+export const taskListRegular: IconData = {
   name: 'task-list',
   type: 'regular',
   category: 'documents-and-folders',

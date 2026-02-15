@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Ethereum Rotate Out
  */
-export const ethereumRotateOutRegularIconData: IconData = {
+export const ethereumRotateOutRegular: IconData = {
   name: 'ethereum-rotate-out',
   type: 'regular',
   category: 'finance',

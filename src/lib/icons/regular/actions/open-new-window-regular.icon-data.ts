@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Open New Window
  */
-export const openNewWindowRegularIconData: IconData = {
+export const openNewWindowRegular: IconData = {
   name: 'open-new-window',
   type: 'regular',
   category: 'actions',

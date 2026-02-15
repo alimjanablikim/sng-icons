@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Non Binary
  */
-export const nonBinaryRegularIconData: IconData = {
+export const nonBinaryRegular: IconData = {
   name: 'non-binary',
   type: 'regular',
   category: 'gender',

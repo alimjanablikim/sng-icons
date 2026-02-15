@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Adobe After Effects
  */
-export const adobeAfterEffectsSolidIconData: IconData = {
+export const adobeAfterEffectsSolid: IconData = {
   name: 'adobe-after-effects',
   type: 'solid',
   category: 'brand',

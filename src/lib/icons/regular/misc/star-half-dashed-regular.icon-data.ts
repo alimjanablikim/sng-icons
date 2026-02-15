@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Star Half Dashed
  */
-export const starHalfDashedRegularIconData: IconData = {
+export const starHalfDashedRegular: IconData = {
   name: 'star-half-dashed',
   type: 'regular',
   category: 'misc',

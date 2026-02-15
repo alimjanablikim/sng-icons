@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name African Tree
  */
-export const africanTreeRegularIconData: IconData = {
+export const africanTreeRegular: IconData = {
   name: 'african-tree',
   type: 'regular',
   category: 'animals',

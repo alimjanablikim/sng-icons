@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Sweep 3d
  */
-export const sweep3dRegularIconData: IconData = {
+export const sweep3dRegular: IconData = {
   name: 'sweep-3d',
   type: 'regular',
   category: '3d-editor',

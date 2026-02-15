@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Refresh Double
  */
-export const refreshDoubleRegularIconData: IconData = {
+export const refreshDoubleRegular: IconData = {
   name: 'refresh-double',
   type: 'regular',
   category: 'arrows',

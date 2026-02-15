@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Doc Star In
  */
-export const docStarInRegularIconData: IconData = {
+export const docStarInRegular: IconData = {
   name: 'doc-star-in',
   type: 'regular',
   category: 'documents-and-folders',

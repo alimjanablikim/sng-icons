@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Terminal Tag
  */
-export const terminalTagRegularIconData: IconData = {
+export const terminalTagRegular: IconData = {
   name: 'terminal-tag',
   type: 'regular',
   category: 'code',

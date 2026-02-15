@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Dialpad
  */
-export const dialpadRegularIconData: IconData = {
+export const dialpadRegular: IconData = {
   name: 'dialpad',
   type: 'regular',
   category: 'controls',

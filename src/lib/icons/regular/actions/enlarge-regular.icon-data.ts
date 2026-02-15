@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Enlarge
  */
-export const enlargeRegularIconData: IconData = {
+export const enlargeRegular: IconData = {
   name: 'enlarge',
   type: 'regular',
   category: 'actions',

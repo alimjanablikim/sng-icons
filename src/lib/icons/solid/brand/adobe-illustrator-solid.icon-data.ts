@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Adobe Illustrator
  */
-export const adobeIllustratorSolidIconData: IconData = {
+export const adobeIllustratorSolid: IconData = {
   name: 'adobe-illustrator',
   type: 'solid',
   category: 'brand',

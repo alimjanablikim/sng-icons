@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Cursor Pointer
  */
-export const cursorPointerRegularIconData: IconData = {
+export const cursorPointerRegular: IconData = {
   name: 'cursor-pointer',
   type: 'regular',
   category: 'design',

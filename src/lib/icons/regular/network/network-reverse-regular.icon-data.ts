@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Network Reverse
  */
-export const networkReverseRegularIconData: IconData = {
+export const networkReverseRegular: IconData = {
   name: 'network-reverse',
   type: 'regular',
   category: 'network',

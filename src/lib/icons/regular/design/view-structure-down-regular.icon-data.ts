@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name View Structure Down
  */
-export const viewStructureDownRegularIconData: IconData = {
+export const viewStructureDownRegular: IconData = {
   name: 'view-structure-down',
   type: 'regular',
   category: 'design',

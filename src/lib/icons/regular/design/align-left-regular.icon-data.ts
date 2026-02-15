@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Align Left
  */
-export const alignLeftRegularIconData: IconData = {
+export const alignLeftRegular: IconData = {
   name: 'align-left',
   type: 'regular',
   category: 'design',

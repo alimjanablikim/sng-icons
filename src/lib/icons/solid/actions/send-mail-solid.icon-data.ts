@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Send Mail
  */
-export const sendMailSolidIconData: IconData = {
+export const sendMailSolid: IconData = {
   name: 'send-mail',
   type: 'solid',
   category: 'actions',

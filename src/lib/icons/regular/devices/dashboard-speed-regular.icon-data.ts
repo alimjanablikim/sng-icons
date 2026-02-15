@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Dashboard Speed
  */
-export const dashboardSpeedRegularIconData: IconData = {
+export const dashboardSpeedRegular: IconData = {
   name: 'dashboard-speed',
   type: 'regular',
   category: 'devices',

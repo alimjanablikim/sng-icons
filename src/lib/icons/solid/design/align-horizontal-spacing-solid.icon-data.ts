@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Align Horizontal Spacing
  */
-export const alignHorizontalSpacingSolidIconData: IconData = {
+export const alignHorizontalSpacingSolid: IconData = {
   name: 'align-horizontal-spacing',
   type: 'solid',
   category: 'design',

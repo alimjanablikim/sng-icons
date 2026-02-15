@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Video Camera Off
  */
-export const videoCameraOffRegularIconData: IconData = {
+export const videoCameraOffRegular: IconData = {
   name: 'video-camera-off',
   type: 'regular',
   category: 'media',

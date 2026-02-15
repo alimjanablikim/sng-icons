@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Forward
  */
-export const forwardSolidIconData: IconData = {
+export const forwardSolid: IconData = {
   name: 'forward',
   type: 'solid',
   category: 'actions',

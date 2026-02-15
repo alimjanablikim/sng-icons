@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Rhombus Arrow Right
  */
-export const rhombusArrowRightSolidIconData: IconData = {
+export const rhombusArrowRightSolid: IconData = {
   name: 'rhombus-arrow-right',
   type: 'solid',
   category: 'arrows',

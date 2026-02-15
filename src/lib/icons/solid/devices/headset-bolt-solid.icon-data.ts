@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Headset Bolt
  */
-export const headsetBoltSolidIconData: IconData = {
+export const headsetBoltSolid: IconData = {
   name: 'headset-bolt',
   type: 'solid',
   category: 'devices',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Microphone Minus
  */
-export const microphoneMinusSolidIconData: IconData = {
+export const microphoneMinusSolid: IconData = {
   name: 'microphone-minus',
   type: 'solid',
   category: 'devices',

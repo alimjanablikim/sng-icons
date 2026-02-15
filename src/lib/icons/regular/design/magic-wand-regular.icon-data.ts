@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Magic Wand
  */
-export const magicWandRegularIconData: IconData = {
+export const magicWandRegular: IconData = {
   name: 'magic-wand',
   type: 'regular',
   category: 'design',

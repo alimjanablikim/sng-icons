@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Keyframe Align Vertical
  */
-export const keyframeAlignVerticalRegularIconData: IconData = {
+export const keyframeAlignVerticalRegular: IconData = {
   name: 'keyframe-align-vertical',
   type: 'regular',
   category: 'design',

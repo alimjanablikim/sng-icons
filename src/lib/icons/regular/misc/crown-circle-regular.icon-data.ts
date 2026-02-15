@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Crown Circle
  */
-export const crownCircleRegularIconData: IconData = {
+export const crownCircleRegular: IconData = {
   name: 'crown-circle',
   type: 'regular',
   category: 'misc',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Cloud Download
  */
-export const cloudDownloadRegularIconData: IconData = {
+export const cloudDownloadRegular: IconData = {
   name: 'cloud-download',
   type: 'regular',
   category: 'cloud',

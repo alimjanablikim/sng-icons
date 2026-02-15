@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Undo Action
  */
-export const undoActionRegularIconData: IconData = {
+export const undoActionRegular: IconData = {
   name: 'undo-action',
   type: 'regular',
   category: 'arrows',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Expand Lines
  */
-export const expandLinesRegularIconData: IconData = {
+export const expandLinesRegular: IconData = {
   name: 'expand-lines',
   type: 'regular',
   category: 'actions',

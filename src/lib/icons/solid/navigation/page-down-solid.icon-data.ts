@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Page Down
  */
-export const pageDownSolidIconData: IconData = {
+export const pageDownSolid: IconData = {
   name: 'page-down',
   type: 'solid',
   category: 'navigation',

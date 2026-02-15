@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Help Circle
  */
-export const helpCircleSolidIconData: IconData = {
+export const helpCircleSolid: IconData = {
   name: 'help-circle',
   type: 'solid',
   category: 'controls',

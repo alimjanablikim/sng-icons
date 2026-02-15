@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Glass Fragile
  */
-export const glassFragileRegularIconData: IconData = {
+export const glassFragileRegular: IconData = {
   name: 'glass-fragile',
   type: 'regular',
   category: 'drinks',

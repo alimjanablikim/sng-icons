@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Watering Soil
  */
-export const wateringSoilRegularIconData: IconData = {
+export const wateringSoilRegular: IconData = {
   name: 'watering-soil',
   type: 'regular',
   category: 'environment',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Database Script Plus
  */
-export const databaseScriptPlusRegularIconData: IconData = {
+export const databaseScriptPlusRegular: IconData = {
   name: 'database-script-plus',
   type: 'regular',
   category: 'network',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name View 360
  */
-export const view360RegularIconData: IconData = {
+export const view360Regular: IconData = {
   name: 'view-360',
   type: 'regular',
   category: 'design',

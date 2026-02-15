@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Droplet Snow Flake In
  */
-export const dropletSnowFlakeInRegularIconData: IconData = {
+export const dropletSnowFlakeInRegular: IconData = {
   name: 'droplet-snow-flake-in',
   type: 'regular',
   category: 'misc',

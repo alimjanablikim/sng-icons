@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name App Notification
  */
-export const appNotificationSolidIconData: IconData = {
+export const appNotificationSolid: IconData = {
   name: 'app-notification',
   type: 'solid',
   category: 'devices',

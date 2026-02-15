@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Web Window Xmark
  */
-export const webWindowXmarkSolidIconData: IconData = {
+export const webWindowXmarkSolid: IconData = {
   name: 'web-window-xmark',
   type: 'solid',
   category: 'computer',

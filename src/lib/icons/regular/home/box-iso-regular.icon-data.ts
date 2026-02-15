@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Box Iso
  */
-export const boxIsoRegularIconData: IconData = {
+export const boxIsoRegular: IconData = {
   name: 'box-iso',
   type: 'regular',
   category: 'home',

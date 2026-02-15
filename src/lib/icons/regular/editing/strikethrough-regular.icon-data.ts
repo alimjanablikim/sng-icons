@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Strikethrough
  */
-export const strikethroughRegularIconData: IconData = {
+export const strikethroughRegular: IconData = {
   name: 'strikethrough',
   type: 'regular',
   category: 'editing',

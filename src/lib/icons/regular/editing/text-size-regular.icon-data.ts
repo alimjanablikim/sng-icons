@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Text Size
  */
-export const textSizeRegularIconData: IconData = {
+export const textSizeRegular: IconData = {
   name: 'text-size',
   type: 'regular',
   category: 'editing',

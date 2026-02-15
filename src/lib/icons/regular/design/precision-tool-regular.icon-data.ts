@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Precision Tool
  */
-export const precisionToolRegularIconData: IconData = {
+export const precisionToolRegular: IconData = {
   name: 'precision-tool',
   type: 'regular',
   category: 'design',

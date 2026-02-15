@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Sidebar Collapse
  */
-export const sidebarCollapseRegularIconData: IconData = {
+export const sidebarCollapseRegular: IconData = {
   name: 'sidebar-collapse',
   type: 'regular',
   category: 'design',

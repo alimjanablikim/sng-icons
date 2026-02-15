@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Nintendo Switch
  */
-export const nintendoSwitchRegularIconData: IconData = {
+export const nintendoSwitchRegular: IconData = {
   name: 'nintendo-switch',
   type: 'regular',
   category: 'brand',

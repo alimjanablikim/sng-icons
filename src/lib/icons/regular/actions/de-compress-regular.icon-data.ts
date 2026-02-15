@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name De Compress
  */
-export const deCompressRegularIconData: IconData = {
+export const deCompressRegular: IconData = {
   name: 'de-compress',
   type: 'regular',
   category: 'actions',

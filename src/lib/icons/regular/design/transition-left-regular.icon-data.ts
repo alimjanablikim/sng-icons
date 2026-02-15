@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Transition Left
  */
-export const transitionLeftRegularIconData: IconData = {
+export const transitionLeftRegular: IconData = {
   name: 'transition-left',
   type: 'regular',
   category: 'design',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Forward
  */
-export const forwardRegularIconData: IconData = {
+export const forwardRegular: IconData = {
   name: 'forward',
   type: 'regular',
   category: 'actions',

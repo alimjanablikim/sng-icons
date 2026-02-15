@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Web Window Xmark
  */
-export const webWindowXmarkRegularIconData: IconData = {
+export const webWindowXmarkRegular: IconData = {
   name: 'web-window-xmark',
   type: 'regular',
   category: 'computer',

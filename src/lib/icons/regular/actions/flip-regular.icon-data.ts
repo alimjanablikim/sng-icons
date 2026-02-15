@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Flip
  */
-export const flipRegularIconData: IconData = {
+export const flipRegular: IconData = {
   name: 'flip',
   type: 'regular',
   category: 'actions',

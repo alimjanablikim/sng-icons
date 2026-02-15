@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Mirror
  */
-export const mirrorRegularIconData: IconData = {
+export const mirrorRegular: IconData = {
   name: 'mirror',
   type: 'regular',
   category: 'home',

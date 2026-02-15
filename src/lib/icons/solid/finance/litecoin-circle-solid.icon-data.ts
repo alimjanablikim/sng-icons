@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Litecoin Circle
  */
-export const litecoinCircleSolidIconData: IconData = {
+export const litecoinCircleSolid: IconData = {
   name: 'litecoin-circle',
   type: 'solid',
   category: 'finance',

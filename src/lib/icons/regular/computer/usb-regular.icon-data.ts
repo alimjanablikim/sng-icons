@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Usb
  */
-export const usbRegularIconData: IconData = {
+export const usbRegular: IconData = {
   name: 'usb',
   type: 'regular',
   category: 'computer',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Send Diagonal
  */
-export const sendDiagonalRegularIconData: IconData = {
+export const sendDiagonalRegular: IconData = {
   name: 'send-diagonal',
   type: 'regular',
   category: 'actions',

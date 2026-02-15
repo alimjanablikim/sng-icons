@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Chat Bubble
  */
-export const chatBubbleRegularIconData: IconData = {
+export const chatBubbleRegular: IconData = {
   name: 'chat-bubble',
   type: 'regular',
   category: 'communication',

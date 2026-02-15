@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Fill Color
  */
-export const fillColorSolidIconData: IconData = {
+export const fillColorSolid: IconData = {
   name: 'fill-color',
   type: 'solid',
   category: 'design',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name System Shut
  */
-export const systemShutRegularIconData: IconData = {
+export const systemShutRegular: IconData = {
   name: 'system-shut',
   type: 'regular',
   category: 'actions',

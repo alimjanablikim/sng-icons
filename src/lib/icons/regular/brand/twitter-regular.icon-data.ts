@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Twitter
  */
-export const twitterRegularIconData: IconData = {
+export const twitterRegular: IconData = {
   name: 'twitter',
   type: 'regular',
   category: 'brand',

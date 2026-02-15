@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Auto Flash
  */
-export const autoFlashRegularIconData: IconData = {
+export const autoFlashRegular: IconData = {
   name: 'auto-flash',
   type: 'regular',
   category: 'media',

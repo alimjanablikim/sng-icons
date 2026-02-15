@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Constrained Surface
  */
-export const constrainedSurfaceRegularIconData: IconData = {
+export const constrainedSurfaceRegular: IconData = {
   name: 'constrained-surface',
   type: 'regular',
   category: '3d-editor',

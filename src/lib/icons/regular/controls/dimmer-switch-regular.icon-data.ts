@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Dimmer Switch
  */
-export const dimmerSwitchRegularIconData: IconData = {
+export const dimmerSwitchRegular: IconData = {
   name: 'dimmer-switch',
   type: 'regular',
   category: 'controls',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Filter List Circle
  */
-export const filterListCircleSolidIconData: IconData = {
+export const filterListCircleSolid: IconData = {
   name: 'filter-list-circle',
   type: 'solid',
   category: 'design',

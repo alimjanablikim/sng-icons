@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Github Circle
  */
-export const githubCircleRegularIconData: IconData = {
+export const githubCircleRegular: IconData = {
   name: 'github-circle',
   type: 'regular',
   category: 'brand',

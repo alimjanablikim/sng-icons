@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Trello
  */
-export const trelloRegularIconData: IconData = {
+export const trelloRegular: IconData = {
   name: 'trello',
   type: 'regular',
   category: 'brand',

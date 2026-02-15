@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Git Cherry Pick Commit
  */
-export const gitCherryPickCommitRegularIconData: IconData = {
+export const gitCherryPickCommitRegular: IconData = {
   name: 'git-cherry-pick-commit',
   type: 'regular',
   category: 'brand',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Music Double Note
  */
-export const musicDoubleNoteRegularIconData: IconData = {
+export const musicDoubleNoteRegular: IconData = {
   name: 'music-double-note',
   type: 'regular',
   category: 'media',

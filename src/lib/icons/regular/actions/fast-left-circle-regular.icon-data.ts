@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Fast Left Circle
  */
-export const fastLeftCircleRegularIconData: IconData = {
+export const fastLeftCircleRegular: IconData = {
   name: 'fast-left-circle',
   type: 'regular',
   category: 'actions',

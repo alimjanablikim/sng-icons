@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Money Square
  */
-export const moneySquareSolidIconData: IconData = {
+export const moneySquareSolid: IconData = {
   name: 'money-square',
   type: 'solid',
   category: 'finance',

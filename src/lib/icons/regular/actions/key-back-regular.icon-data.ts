@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Key Back
  */
-export const keyBackRegularIconData: IconData = {
+export const keyBackRegular: IconData = {
   name: 'key-back',
   type: 'regular',
   category: 'actions',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Table Rows
  */
-export const tableRowsRegularIconData: IconData = {
+export const tableRowsRegular: IconData = {
   name: 'table-rows',
   type: 'regular',
   category: 'design',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Playstation Gamepad
  */
-export const playstationGamepadRegularIconData: IconData = {
+export const playstationGamepadRegular: IconData = {
   name: 'playstation-gamepad',
   type: 'regular',
   category: 'brand',

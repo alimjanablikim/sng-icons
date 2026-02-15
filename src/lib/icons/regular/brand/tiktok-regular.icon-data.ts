@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Tiktok
  */
-export const tiktokRegularIconData: IconData = {
+export const tiktokRegular: IconData = {
   name: 'tiktok',
   type: 'regular',
   category: 'brand',

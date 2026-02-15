@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Mastercard Card
  */
-export const mastercardCardRegularIconData: IconData = {
+export const mastercardCardRegular: IconData = {
   name: 'mastercard-card',
   type: 'regular',
   category: 'brand',

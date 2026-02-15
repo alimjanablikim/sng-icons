@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Git Commit
  */
-export const gitCommitRegularIconData: IconData = {
+export const gitCommitRegular: IconData = {
   name: 'git-commit',
   type: 'regular',
   category: 'brand',

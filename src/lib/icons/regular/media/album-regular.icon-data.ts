@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Album
  */
-export const albumRegularIconData: IconData = {
+export const albumRegular: IconData = {
   name: 'album',
   type: 'regular',
   category: 'media',

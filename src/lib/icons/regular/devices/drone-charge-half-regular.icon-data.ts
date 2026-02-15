@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Drone Charge Half
  */
-export const droneChargeHalfRegularIconData: IconData = {
+export const droneChargeHalfRegular: IconData = {
   name: 'drone-charge-half',
   type: 'regular',
   category: 'devices',

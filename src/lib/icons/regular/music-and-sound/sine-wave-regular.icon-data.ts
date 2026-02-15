@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Sine Wave
  */
-export const sineWaveRegularIconData: IconData = {
+export const sineWaveRegular: IconData = {
   name: 'sine-wave',
   type: 'regular',
   category: 'music-and-sound',

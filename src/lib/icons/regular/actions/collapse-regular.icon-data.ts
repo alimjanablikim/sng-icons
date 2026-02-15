@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Collapse
  */
-export const collapseRegularIconData: IconData = {
+export const collapseRegular: IconData = {
   name: 'collapse',
   type: 'regular',
   category: 'actions',

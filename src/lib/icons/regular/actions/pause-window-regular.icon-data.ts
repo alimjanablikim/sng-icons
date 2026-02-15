@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Pause Window
  */
-export const pauseWindowRegularIconData: IconData = {
+export const pauseWindowRegular: IconData = {
   name: 'pause-window',
   type: 'regular',
   category: 'actions',

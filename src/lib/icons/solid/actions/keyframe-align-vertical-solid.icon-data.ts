@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Keyframe Align Vertical
  */
-export const keyframeAlignVerticalSolidIconData: IconData = {
+export const keyframeAlignVerticalSolid: IconData = {
   name: 'keyframe-align-vertical',
   type: 'solid',
   category: 'actions',

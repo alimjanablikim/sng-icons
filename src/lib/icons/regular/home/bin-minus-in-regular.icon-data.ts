@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Bin Minus In
  */
-export const binMinusInRegularIconData: IconData = {
+export const binMinusInRegular: IconData = {
   name: 'bin-minus-in',
   type: 'regular',
   category: 'home',

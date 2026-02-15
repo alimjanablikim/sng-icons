@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Border Inner
  */
-export const borderInnerRegularIconData: IconData = {
+export const borderInnerRegular: IconData = {
   name: 'border-inner',
   type: 'regular',
   category: 'design',

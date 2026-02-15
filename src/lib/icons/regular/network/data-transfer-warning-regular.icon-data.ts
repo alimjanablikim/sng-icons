@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Data Transfer Warning
  */
-export const dataTransferWarningRegularIconData: IconData = {
+export const dataTransferWarningRegular: IconData = {
   name: 'data-transfer-warning',
   type: 'regular',
   category: 'network',

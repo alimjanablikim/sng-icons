@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Password Xmark
  */
-export const passwordXmarkRegularIconData: IconData = {
+export const passwordXmarkRegular: IconData = {
   name: 'password-xmark',
   type: 'regular',
   category: 'security',

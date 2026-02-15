@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Project Curve 3d
  */
-export const projectCurve3dRegularIconData: IconData = {
+export const projectCurve3dRegular: IconData = {
   name: 'project-curve-3d',
   type: 'regular',
   category: '3d-editor',

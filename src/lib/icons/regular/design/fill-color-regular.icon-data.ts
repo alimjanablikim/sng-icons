@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Fill Color
  */
-export const fillColorRegularIconData: IconData = {
+export const fillColorRegular: IconData = {
   name: 'fill-color',
   type: 'regular',
   category: 'design',

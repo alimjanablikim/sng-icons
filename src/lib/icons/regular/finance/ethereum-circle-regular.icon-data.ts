@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Ethereum Circle
  */
-export const ethereumCircleRegularIconData: IconData = {
+export const ethereumCircleRegular: IconData = {
   name: 'ethereum-circle',
   type: 'regular',
   category: 'finance',

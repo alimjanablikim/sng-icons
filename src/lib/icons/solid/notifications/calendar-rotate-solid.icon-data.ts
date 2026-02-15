@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Calendar Rotate
  */
-export const calendarRotateSolidIconData: IconData = {
+export const calendarRotateSolid: IconData = {
   name: 'calendar-rotate',
   type: 'solid',
   category: 'notifications',

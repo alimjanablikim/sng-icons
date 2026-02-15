@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Spotify
  */
-export const spotifyRegularIconData: IconData = {
+export const spotifyRegular: IconData = {
   name: 'spotify',
   type: 'regular',
   category: 'brand',

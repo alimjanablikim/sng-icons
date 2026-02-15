@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Dollar Circle
  */
-export const dollarCircleSolidIconData: IconData = {
+export const dollarCircleSolid: IconData = {
   name: 'dollar-circle',
   type: 'solid',
   category: 'finance',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Sigma Function
  */
-export const sigmaFunctionRegularIconData: IconData = {
+export const sigmaFunctionRegular: IconData = {
   name: 'sigma-function',
   type: 'regular',
   category: 'misc',

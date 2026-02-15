@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Mac Control Key
  */
-export const macControlKeyRegularIconData: IconData = {
+export const macControlKeyRegular: IconData = {
   name: 'mac-control-key',
   type: 'regular',
   category: 'brand',

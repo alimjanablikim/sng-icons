@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Multiple Pages Xmark
  */
-export const multiplePagesXmarkRegularIconData: IconData = {
+export const multiplePagesXmarkRegular: IconData = {
   name: 'multiple-pages-xmark',
   type: 'regular',
   category: 'documents-and-folders',

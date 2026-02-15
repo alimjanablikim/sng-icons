@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Planimetry
  */
-export const planimetryRegularIconData: IconData = {
+export const planimetryRegular: IconData = {
   name: 'planimetry',
   type: 'regular',
   category: '3d-editor',

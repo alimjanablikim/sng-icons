@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Control Slider
  */
-export const controlSliderRegularIconData: IconData = {
+export const controlSliderRegular: IconData = {
   name: 'control-slider',
   type: 'regular',
   category: 'controls',

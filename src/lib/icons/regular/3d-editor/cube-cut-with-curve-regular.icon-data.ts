@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Cube Cut With Curve
  */
-export const cubeCutWithCurveRegularIconData: IconData = {
+export const cubeCutWithCurveRegular: IconData = {
   name: 'cube-cut-with-curve',
   type: 'regular',
   category: '3d-editor',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Calendar Arrow Up
  */
-export const calendarArrowUpRegularIconData: IconData = {
+export const calendarArrowUpRegular: IconData = {
   name: 'calendar-arrow-up',
   type: 'regular',
   category: 'business',

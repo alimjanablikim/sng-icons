@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Face 3d Draft
  */
-export const face3dDraftRegularIconData: IconData = {
+export const face3dDraftRegular: IconData = {
   name: 'face-3d-draft',
   type: 'regular',
   category: '3d-editor',

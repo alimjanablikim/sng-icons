@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Shop Window
  */
-export const shopWindowRegularIconData: IconData = {
+export const shopWindowRegular: IconData = {
   name: 'shop-window',
   type: 'regular',
   category: 'building',

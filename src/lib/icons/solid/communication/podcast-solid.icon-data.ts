@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Podcast
  */
-export const podcastSolidIconData: IconData = {
+export const podcastSolid: IconData = {
   name: 'podcast',
   type: 'solid',
   category: 'communication',

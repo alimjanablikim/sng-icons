@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Loft 3d
  */
-export const loft3dRegularIconData: IconData = {
+export const loft3dRegular: IconData = {
   name: 'loft-3d',
   type: 'regular',
   category: '3d-editor',

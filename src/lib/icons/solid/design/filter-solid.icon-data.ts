@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Filter
  */
-export const filterSolidIconData: IconData = {
+export const filterSolid: IconData = {
   name: 'filter',
   type: 'solid',
   category: 'design',

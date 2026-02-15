@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Share Ios
  */
-export const shareIosRegularIconData: IconData = {
+export const shareIosRegular: IconData = {
   name: 'share-ios',
   type: 'regular',
   category: 'actions',

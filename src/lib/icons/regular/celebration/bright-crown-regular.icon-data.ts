@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Bright Crown
  */
-export const brightCrownRegularIconData: IconData = {
+export const brightCrownRegular: IconData = {
   name: 'bright-crown',
   type: 'regular',
   category: 'celebration',

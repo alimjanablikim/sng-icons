@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Scan Barcode
  */
-export const scanBarcodeRegularIconData: IconData = {
+export const scanBarcodeRegular: IconData = {
   name: 'scan-barcode',
   type: 'regular',
   category: 'design',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Wrap Text
  */
-export const wrapTextRegularIconData: IconData = {
+export const wrapTextRegular: IconData = {
   name: 'wrap-text',
   type: 'regular',
   category: 'editing',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Square Cursor
  */
-export const squareCursorRegularIconData: IconData = {
+export const squareCursorRegular: IconData = {
   name: 'square-cursor',
   type: 'regular',
   category: 'shapes',

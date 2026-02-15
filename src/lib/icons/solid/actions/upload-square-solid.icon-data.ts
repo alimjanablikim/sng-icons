@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Upload Square
  */
-export const uploadSquareSolidIconData: IconData = {
+export const uploadSquareSolid: IconData = {
   name: 'upload-square',
   type: 'solid',
   category: 'actions',

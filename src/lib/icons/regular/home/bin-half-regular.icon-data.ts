@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Bin Half
  */
-export const binHalfRegularIconData: IconData = {
+export const binHalfRegular: IconData = {
   name: 'bin-half',
   type: 'regular',
   category: 'home',

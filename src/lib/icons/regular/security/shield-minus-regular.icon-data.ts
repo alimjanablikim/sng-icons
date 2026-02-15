@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Shield Minus
  */
-export const shieldMinusRegularIconData: IconData = {
+export const shieldMinusRegular: IconData = {
   name: 'shield-minus',
   type: 'regular',
   category: 'security',

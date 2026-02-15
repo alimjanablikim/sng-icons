@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Frame Plus In
  */
-export const framePlusInRegularIconData: IconData = {
+export const framePlusInRegular: IconData = {
   name: 'frame-plus-in',
   type: 'regular',
   category: 'actions',

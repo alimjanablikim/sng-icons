@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Text Magnifying Glass
  */
-export const textMagnifyingGlassRegularIconData: IconData = {
+export const textMagnifyingGlassRegular: IconData = {
   name: 'text-magnifying-glass',
   type: 'regular',
   category: 'editing',

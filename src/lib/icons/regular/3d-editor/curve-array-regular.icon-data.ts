@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Curve Array
  */
-export const curveArrayRegularIconData: IconData = {
+export const curveArrayRegular: IconData = {
   name: 'curve-array',
   type: 'regular',
   category: '3d-editor',

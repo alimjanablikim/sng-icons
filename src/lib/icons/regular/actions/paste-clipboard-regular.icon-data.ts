@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Paste Clipboard
  */
-export const pasteClipboardRegularIconData: IconData = {
+export const pasteClipboardRegular: IconData = {
   name: 'paste-clipboard',
   type: 'regular',
   category: 'actions',

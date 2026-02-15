@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Hospital Circle
  */
-export const hospitalCircleSolidIconData: IconData = {
+export const hospitalCircleSolid: IconData = {
   name: 'hospital-circle',
   type: 'solid',
   category: 'building',

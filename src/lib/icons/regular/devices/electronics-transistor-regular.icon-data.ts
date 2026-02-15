@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Electronics Transistor
  */
-export const electronicsTransistorRegularIconData: IconData = {
+export const electronicsTransistorRegular: IconData = {
   name: 'electronics-transistor',
   type: 'regular',
   category: 'devices',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Align Bottom Box
  */
-export const alignBottomBoxSolidIconData: IconData = {
+export const alignBottomBoxSolid: IconData = {
   name: 'align-bottom-box',
   type: 'solid',
   category: 'design',

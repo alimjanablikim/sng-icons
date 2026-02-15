@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Plus Square Dashed
  */
-export const plusSquareDashedRegularIconData: IconData = {
+export const plusSquareDashedRegular: IconData = {
   name: 'plus-square-dashed',
   type: 'regular',
   category: 'controls',

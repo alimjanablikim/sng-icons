@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Cinema Old
  */
-export const cinemaOldRegularIconData: IconData = {
+export const cinemaOldRegular: IconData = {
   name: 'cinema-old',
   type: 'regular',
   category: 'media',

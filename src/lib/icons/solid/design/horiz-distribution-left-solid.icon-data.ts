@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Horiz Distribution Left
  */
-export const horizDistributionLeftSolidIconData: IconData = {
+export const horizDistributionLeftSolid: IconData = {
   name: 'horiz-distribution-left',
   type: 'solid',
   category: 'design',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Restart
  */
-export const restartRegularIconData: IconData = {
+export const restartRegular: IconData = {
   name: 'restart',
   type: 'regular',
   category: 'actions',

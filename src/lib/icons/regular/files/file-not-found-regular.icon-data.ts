@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name File Not Found
  */
-export const fileNotFoundRegularIconData: IconData = {
+export const fileNotFoundRegular: IconData = {
   name: 'file-not-found',
   type: 'regular',
   category: 'files',

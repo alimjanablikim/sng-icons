@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Safe Open
  */
-export const safeOpenRegularIconData: IconData = {
+export const safeOpenRegular: IconData = {
   name: 'safe-open',
   type: 'regular',
   category: 'finance',

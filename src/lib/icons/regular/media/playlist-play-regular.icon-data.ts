@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Playlist Play
  */
-export const playlistPlayRegularIconData: IconData = {
+export const playlistPlayRegular: IconData = {
   name: 'playlist-play',
   type: 'regular',
   category: 'media',

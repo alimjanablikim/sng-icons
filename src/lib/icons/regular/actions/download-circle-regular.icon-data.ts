@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Download Circle
  */
-export const downloadCircleRegularIconData: IconData = {
+export const downloadCircleRegular: IconData = {
   name: 'download-circle',
   type: 'regular',
   category: 'actions',

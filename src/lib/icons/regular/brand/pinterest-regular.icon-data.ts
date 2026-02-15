@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Pinterest
  */
-export const pinterestRegularIconData: IconData = {
+export const pinterestRegular: IconData = {
   name: 'pinterest',
   type: 'regular',
   category: 'brand',

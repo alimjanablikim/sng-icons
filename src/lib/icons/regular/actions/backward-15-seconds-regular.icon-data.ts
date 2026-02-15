@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Backward 15 Seconds
  */
-export const backward15SecondsRegularIconData: IconData = {
+export const backward15SecondsRegular: IconData = {
   name: 'backward-15-seconds',
   type: 'regular',
   category: 'actions',

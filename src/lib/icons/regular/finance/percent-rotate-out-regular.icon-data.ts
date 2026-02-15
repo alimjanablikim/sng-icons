@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Percent Rotate Out
  */
-export const percentRotateOutRegularIconData: IconData = {
+export const percentRotateOutRegular: IconData = {
   name: 'percent-rotate-out',
   type: 'regular',
   category: 'finance',

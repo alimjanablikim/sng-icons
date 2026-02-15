@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Network Left
  */
-export const networkLeftRegularIconData: IconData = {
+export const networkLeftRegular: IconData = {
   name: 'network-left',
   type: 'regular',
   category: 'network',

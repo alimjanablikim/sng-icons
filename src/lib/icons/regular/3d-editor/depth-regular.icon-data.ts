@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Depth
  */
-export const depthRegularIconData: IconData = {
+export const depthRegular: IconData = {
   name: 'depth',
   type: 'regular',
   category: '3d-editor',

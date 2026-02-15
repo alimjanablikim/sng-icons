@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Plug Type G
  */
-export const plugTypeGRegularIconData: IconData = {
+export const plugTypeGRegular: IconData = {
   name: 'plug-type-g',
   type: 'regular',
   category: 'devices',

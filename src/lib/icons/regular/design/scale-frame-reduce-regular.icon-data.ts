@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Scale Frame Reduce
  */
-export const scaleFrameReduceRegularIconData: IconData = {
+export const scaleFrameReduceRegular: IconData = {
   name: 'scale-frame-reduce',
   type: 'regular',
   category: 'design',

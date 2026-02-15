@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Horiz Distribution Right
  */
-export const horizDistributionRightRegularIconData: IconData = {
+export const horizDistributionRightRegular: IconData = {
   name: 'horiz-distribution-right',
   type: 'regular',
   category: 'design',

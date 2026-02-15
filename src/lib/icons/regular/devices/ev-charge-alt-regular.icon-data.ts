@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Ev Charge Alt
  */
-export const evChargeAltRegularIconData: IconData = {
+export const evChargeAltRegular: IconData = {
   name: 'ev-charge-alt',
   type: 'regular',
   category: 'devices',

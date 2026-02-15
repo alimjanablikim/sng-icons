@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Scissor Alt
  */
-export const scissorAltRegularIconData: IconData = {
+export const scissorAltRegular: IconData = {
   name: 'scissor-alt',
   type: 'regular',
   category: 'design',

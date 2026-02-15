@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Vue Js
  */
-export const vueJsRegularIconData: IconData = {
+export const vueJsRegular: IconData = {
   name: 'vue-js',
   type: 'regular',
   category: 'brand',

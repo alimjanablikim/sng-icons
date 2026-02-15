@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Transition Down
  */
-export const transitionDownSolidIconData: IconData = {
+export const transitionDownSolid: IconData = {
   name: 'transition-down',
   type: 'solid',
   category: 'design',

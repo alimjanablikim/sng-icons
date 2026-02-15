@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Ev Tag
  */
-export const evTagRegularIconData: IconData = {
+export const evTagRegular: IconData = {
   name: 'ev-tag',
   type: 'regular',
   category: 'devices',

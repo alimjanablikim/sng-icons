@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Filter List Circle
  */
-export const filterListCircleRegularIconData: IconData = {
+export const filterListCircleRegular: IconData = {
   name: 'filter-list-circle',
   type: 'regular',
   category: 'design',

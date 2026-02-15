@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Polar Sh
  */
-export const polarShRegularIconData: IconData = {
+export const polarShRegular: IconData = {
   name: 'polar-sh',
   type: 'regular',
   category: 'weather',

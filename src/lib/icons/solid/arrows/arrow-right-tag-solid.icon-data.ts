@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Arrow Right Tag
  */
-export const arrowRightTagSolidIconData: IconData = {
+export const arrowRightTagSolid: IconData = {
   name: 'arrow-right-tag',
   type: 'solid',
   category: 'arrows',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Chromecast Active
  */
-export const chromecastActiveRegularIconData: IconData = {
+export const chromecastActiveRegular: IconData = {
   name: 'chromecast-active',
   type: 'regular',
   category: 'devices',

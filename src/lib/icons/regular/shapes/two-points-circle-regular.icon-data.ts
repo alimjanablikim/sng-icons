@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Two Points Circle
  */
-export const twoPointsCircleRegularIconData: IconData = {
+export const twoPointsCircleRegular: IconData = {
   name: 'two-points-circle',
   type: 'regular',
   category: 'shapes',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Key Command
  */
-export const keyCommandRegularIconData: IconData = {
+export const keyCommandRegular: IconData = {
   name: 'key-command',
   type: 'regular',
   category: 'actions',

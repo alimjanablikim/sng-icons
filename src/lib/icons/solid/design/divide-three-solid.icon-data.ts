@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Divide Three
  */
-export const divideThreeSolidIconData: IconData = {
+export const divideThreeSolid: IconData = {
   name: 'divide-three',
   type: 'solid',
   category: 'design',

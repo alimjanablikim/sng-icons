@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Display 4k
  */
-export const display4kRegularIconData: IconData = {
+export const display4kRegular: IconData = {
   name: 'display-4k',
   type: 'regular',
   category: 'actions',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Hammer
  */
-export const hammerRegularIconData: IconData = {
+export const hammerRegular: IconData = {
   name: 'hammer',
   type: 'regular',
   category: 'misc',

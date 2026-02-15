@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Scale Frame Enlarge
  */
-export const scaleFrameEnlargeRegularIconData: IconData = {
+export const scaleFrameEnlargeRegular: IconData = {
   name: 'scale-frame-enlarge',
   type: 'regular',
   category: 'design',

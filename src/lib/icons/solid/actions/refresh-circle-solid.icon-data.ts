@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Refresh Circle
  */
-export const refreshCircleSolidIconData: IconData = {
+export const refreshCircleSolid: IconData = {
   name: 'refresh-circle',
   type: 'solid',
   category: 'actions',

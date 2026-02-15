@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Clipboard Check
  */
-export const clipboardCheckRegularIconData: IconData = {
+export const clipboardCheckRegular: IconData = {
   name: 'clipboard-check',
   type: 'regular',
   category: 'actions',

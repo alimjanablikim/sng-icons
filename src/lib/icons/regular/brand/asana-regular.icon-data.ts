@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Asana
  */
-export const asanaRegularIconData: IconData = {
+export const asanaRegular: IconData = {
   name: 'asana',
   type: 'regular',
   category: 'brand',

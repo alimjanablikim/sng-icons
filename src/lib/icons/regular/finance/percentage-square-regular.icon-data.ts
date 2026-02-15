@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Percentage Square
  */
-export const percentageSquareRegularIconData: IconData = {
+export const percentageSquareRegular: IconData = {
   name: 'percentage-square',
   type: 'regular',
   category: 'finance',

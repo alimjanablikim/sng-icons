@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Magnet
  */
-export const magnetSolidIconData: IconData = {
+export const magnetSolid: IconData = {
   name: 'magnet',
   type: 'solid',
   category: 'energy',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Emoji
  */
-export const emojiRegularIconData: IconData = {
+export const emojiRegular: IconData = {
   name: 'emoji',
   type: 'regular',
   category: 'emoji',

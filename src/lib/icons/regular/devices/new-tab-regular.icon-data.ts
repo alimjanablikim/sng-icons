@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name New Tab
  */
-export const newTabRegularIconData: IconData = {
+export const newTabRegular: IconData = {
   name: 'new-tab',
   type: 'regular',
   category: 'devices',

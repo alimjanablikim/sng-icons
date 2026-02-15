@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Pen Connect Wifi
  */
-export const penConnectWifiRegularIconData: IconData = {
+export const penConnectWifiRegular: IconData = {
   name: 'pen-connect-wifi',
   type: 'regular',
   category: 'design',

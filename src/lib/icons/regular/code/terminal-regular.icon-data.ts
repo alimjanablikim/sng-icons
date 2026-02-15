@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Terminal
  */
-export const terminalRegularIconData: IconData = {
+export const terminalRegular: IconData = {
   name: 'terminal',
   type: 'regular',
   category: 'code',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Cloud Sync
  */
-export const cloudSyncRegularIconData: IconData = {
+export const cloudSyncRegular: IconData = {
   name: 'cloud-sync',
   type: 'regular',
   category: 'cloud',

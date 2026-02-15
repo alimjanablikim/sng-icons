@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Rewind
  */
-export const rewindRegularIconData: IconData = {
+export const rewindRegular: IconData = {
   name: 'rewind',
   type: 'regular',
   category: 'actions',

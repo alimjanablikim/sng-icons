@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Xmark Square
  */
-export const xmarkSquareSolidIconData: IconData = {
+export const xmarkSquareSolid: IconData = {
   name: 'xmark-square',
   type: 'solid',
   category: 'actions',

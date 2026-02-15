@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Sort
  */
-export const sortRegularIconData: IconData = {
+export const sortRegular: IconData = {
   name: 'sort',
   type: 'regular',
   category: 'arrows',

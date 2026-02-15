@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Css3
  */
-export const css3RegularIconData: IconData = {
+export const css3Regular: IconData = {
   name: 'css3',
   type: 'regular',
   category: 'brand',

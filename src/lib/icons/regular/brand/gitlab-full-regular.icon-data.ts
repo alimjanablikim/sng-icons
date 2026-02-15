@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Gitlab Full
  */
-export const gitlabFullRegularIconData: IconData = {
+export const gitlabFullRegular: IconData = {
   name: 'gitlab-full',
   type: 'regular',
   category: 'brand',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Keyframe Align Center
  */
-export const keyframeAlignCenterRegularIconData: IconData = {
+export const keyframeAlignCenterRegular: IconData = {
   name: 'keyframe-align-center',
   type: 'regular',
   category: 'design',

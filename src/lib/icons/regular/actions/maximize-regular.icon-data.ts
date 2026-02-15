@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Maximize
  */
-export const maximizeRegularIconData: IconData = {
+export const maximizeRegular: IconData = {
   name: 'maximize',
   type: 'regular',
   category: 'actions',

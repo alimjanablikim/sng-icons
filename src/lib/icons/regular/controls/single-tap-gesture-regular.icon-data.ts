@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Single Tap Gesture
  */
-export const singleTapGestureRegularIconData: IconData = {
+export const singleTapGestureRegular: IconData = {
   name: 'single-tap-gesture',
   type: 'regular',
   category: 'controls',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Creative Commons
  */
-export const creativeCommonsRegularIconData: IconData = {
+export const creativeCommonsRegular: IconData = {
   name: 'creative-commons',
   type: 'regular',
   category: 'brand',

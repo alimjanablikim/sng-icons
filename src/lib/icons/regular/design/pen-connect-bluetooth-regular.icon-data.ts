@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Pen Connect Bluetooth
  */
-export const penConnectBluetoothRegularIconData: IconData = {
+export const penConnectBluetoothRegular: IconData = {
   name: 'pen-connect-bluetooth',
   type: 'regular',
   category: 'design',

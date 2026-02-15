@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Round Flask
  */
-export const roundFlaskRegularIconData: IconData = {
+export const roundFlaskRegular: IconData = {
   name: 'round-flask',
   type: 'regular',
   category: 'food',

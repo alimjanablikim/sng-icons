@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Floppy Disk Arrow In
  */
-export const floppyDiskArrowInRegularIconData: IconData = {
+export const floppyDiskArrowInRegular: IconData = {
   name: 'floppy-disk-arrow-in',
   type: 'regular',
   category: 'actions',

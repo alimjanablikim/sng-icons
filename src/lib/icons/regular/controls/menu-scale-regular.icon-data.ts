@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Menu Scale
  */
-export const menuScaleRegularIconData: IconData = {
+export const menuScaleRegular: IconData = {
   name: 'menu-scale',
   type: 'regular',
   category: 'controls',

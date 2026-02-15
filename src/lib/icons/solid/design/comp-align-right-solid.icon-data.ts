@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Comp Align Right
  */
-export const compAlignRightSolidIconData: IconData = {
+export const compAlignRightSolid: IconData = {
   name: 'comp-align-right',
   type: 'solid',
   category: 'design',

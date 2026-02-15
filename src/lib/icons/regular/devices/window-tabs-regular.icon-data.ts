@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Window Tabs
  */
-export const windowTabsRegularIconData: IconData = {
+export const windowTabsRegular: IconData = {
   name: 'window-tabs',
   type: 'regular',
   category: 'devices',

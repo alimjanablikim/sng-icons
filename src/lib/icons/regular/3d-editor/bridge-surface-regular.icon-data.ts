@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Bridge Surface
  */
-export const bridgeSurfaceRegularIconData: IconData = {
+export const bridgeSurfaceRegular: IconData = {
   name: 'bridge-surface',
   type: 'regular',
   category: '3d-editor',

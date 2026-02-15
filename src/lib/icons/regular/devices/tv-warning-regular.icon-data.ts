@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Tv Warning
  */
-export const tvWarningRegularIconData: IconData = {
+export const tvWarningRegular: IconData = {
   name: 'tv-warning',
   type: 'regular',
   category: 'devices',

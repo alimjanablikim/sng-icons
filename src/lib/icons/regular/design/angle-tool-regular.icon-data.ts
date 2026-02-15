@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Angle Tool
  */
-export const angleToolRegularIconData: IconData = {
+export const angleToolRegular: IconData = {
   name: 'angle-tool',
   type: 'regular',
   category: 'design',

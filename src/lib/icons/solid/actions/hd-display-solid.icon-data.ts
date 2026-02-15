@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Hd Display
  */
-export const hdDisplaySolidIconData: IconData = {
+export const hdDisplaySolid: IconData = {
   name: 'hd-display',
   type: 'solid',
   category: 'actions',

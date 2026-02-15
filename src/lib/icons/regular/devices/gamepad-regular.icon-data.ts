@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Gamepad
  */
-export const gamepadRegularIconData: IconData = {
+export const gamepadRegular: IconData = {
   name: 'gamepad',
   type: 'regular',
   category: 'devices',

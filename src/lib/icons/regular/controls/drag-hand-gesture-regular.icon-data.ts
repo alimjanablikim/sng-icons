@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Drag Hand Gesture
  */
-export const dragHandGestureRegularIconData: IconData = {
+export const dragHandGestureRegular: IconData = {
   name: 'drag-hand-gesture',
   type: 'regular',
   category: 'controls',

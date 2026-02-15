@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Underline
  */
-export const underlineRegularIconData: IconData = {
+export const underlineRegular: IconData = {
   name: 'underline',
   type: 'regular',
   category: 'editing',

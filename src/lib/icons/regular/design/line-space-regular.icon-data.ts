@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Line Space
  */
-export const lineSpaceRegularIconData: IconData = {
+export const lineSpaceRegular: IconData = {
   name: 'line-space',
   type: 'regular',
   category: 'design',

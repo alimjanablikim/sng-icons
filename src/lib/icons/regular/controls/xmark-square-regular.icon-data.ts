@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Xmark Square
  */
-export const xmarkSquareRegularIconData: IconData = {
+export const xmarkSquareRegular: IconData = {
   name: 'xmark-square',
   type: 'regular',
   category: 'controls',

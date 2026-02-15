@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Voice Circle
  */
-export const voiceCircleRegularIconData: IconData = {
+export const voiceCircleRegular: IconData = {
   name: 'voice-circle',
   type: 'regular',
   category: 'media',

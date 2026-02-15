@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name View Columns 3
  */
-export const viewColumns3RegularIconData: IconData = {
+export const viewColumns3Regular: IconData = {
   name: 'view-columns-3',
   type: 'regular',
   category: 'design',

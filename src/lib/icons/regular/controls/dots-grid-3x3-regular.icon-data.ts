@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Dots Grid 3x3
  */
-export const dotsGrid3x3RegularIconData: IconData = {
+export const dotsGrid3x3Regular: IconData = {
   name: 'dots-grid-3x3',
   type: 'regular',
   category: 'controls',

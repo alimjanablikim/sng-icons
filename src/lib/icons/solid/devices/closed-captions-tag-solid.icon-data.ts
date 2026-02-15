@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Closed Captions Tag
  */
-export const closedCaptionsTagSolidIconData: IconData = {
+export const closedCaptionsTagSolid: IconData = {
   name: 'closed-captions-tag',
   type: 'solid',
   category: 'devices',

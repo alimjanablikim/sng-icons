@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Youtube
  */
-export const youtubeRegularIconData: IconData = {
+export const youtubeRegular: IconData = {
   name: 'youtube',
   type: 'regular',
   category: 'brand',

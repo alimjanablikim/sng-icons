@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Cart Plus
  */
-export const cartPlusRegularIconData: IconData = {
+export const cartPlusRegular: IconData = {
   name: 'cart-plus',
   type: 'regular',
   category: 'shopping',

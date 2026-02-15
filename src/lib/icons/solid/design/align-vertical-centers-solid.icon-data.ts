@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Align Vertical Centers
  */
-export const alignVerticalCentersSolidIconData: IconData = {
+export const alignVerticalCentersSolid: IconData = {
   name: 'align-vertical-centers',
   type: 'solid',
   category: 'design',

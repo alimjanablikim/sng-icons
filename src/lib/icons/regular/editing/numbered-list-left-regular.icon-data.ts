@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Numbered List Left
  */
-export const numberedListLeftRegularIconData: IconData = {
+export const numberedListLeftRegular: IconData = {
   name: 'numbered-list-left',
   type: 'regular',
   category: 'editing',

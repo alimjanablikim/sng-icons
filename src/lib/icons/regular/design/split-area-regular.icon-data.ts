@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Split Area
  */
-export const splitAreaRegularIconData: IconData = {
+export const splitAreaRegular: IconData = {
   name: 'split-area',
   type: 'regular',
   category: 'design',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Rss Feed
  */
-export const rssFeedRegularIconData: IconData = {
+export const rssFeedRegular: IconData = {
   name: 'rss-feed',
   type: 'regular',
   category: 'brand',

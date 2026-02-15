@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Horizontal Split
  */
-export const horizontalSplitRegularIconData: IconData = {
+export const horizontalSplitRegular: IconData = {
   name: 'horizontal-split',
   type: 'regular',
   category: 'design',

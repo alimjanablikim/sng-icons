@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Dogecoin Rotate Out
  */
-export const dogecoinRotateOutRegularIconData: IconData = {
+export const dogecoinRotateOutRegular: IconData = {
   name: 'dogecoin-rotate-out',
   type: 'regular',
   category: 'finance',

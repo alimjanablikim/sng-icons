@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Open Book
  */
-export const openBookRegularIconData: IconData = {
+export const openBookRegular: IconData = {
   name: 'open-book',
   type: 'regular',
   category: 'documents-and-folders',

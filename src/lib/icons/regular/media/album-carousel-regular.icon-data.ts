@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Album Carousel
  */
-export const albumCarouselRegularIconData: IconData = {
+export const albumCarouselRegular: IconData = {
   name: 'album-carousel',
   type: 'regular',
   category: 'media',

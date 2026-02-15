@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Hashtag
  */
-export const hashtagRegularIconData: IconData = {
+export const hashtagRegular: IconData = {
   name: 'hashtag',
   type: 'regular',
   category: 'social',

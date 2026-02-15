@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Closed Captions Tag
  */
-export const closedCaptionsTagRegularIconData: IconData = {
+export const closedCaptionsTagRegular: IconData = {
   name: 'closed-captions-tag',
   type: 'regular',
   category: 'media',

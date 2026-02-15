@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Voice Xmark
  */
-export const voiceXmarkRegularIconData: IconData = {
+export const voiceXmarkRegular: IconData = {
   name: 'voice-xmark',
   type: 'regular',
   category: 'media',

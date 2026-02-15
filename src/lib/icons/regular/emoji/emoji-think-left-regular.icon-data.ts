@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Emoji Think Left
  */
-export const emojiThinkLeftRegularIconData: IconData = {
+export const emojiThinkLeftRegular: IconData = {
   name: 'emoji-think-left',
   type: 'regular',
   category: 'emoji',

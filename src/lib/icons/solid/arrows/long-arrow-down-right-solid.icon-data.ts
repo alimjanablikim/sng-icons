@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Long Arrow Down Right
  */
-export const longArrowDownRightSolidIconData: IconData = {
+export const longArrowDownRightSolid: IconData = {
   name: 'long-arrow-down-right',
   type: 'solid',
   category: 'arrows',

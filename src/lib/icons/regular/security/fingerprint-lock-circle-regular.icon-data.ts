@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Fingerprint Lock Circle
  */
-export const fingerprintLockCircleRegularIconData: IconData = {
+export const fingerprintLockCircleRegular: IconData = {
   name: 'fingerprint-lock-circle',
   type: 'regular',
   category: 'security',

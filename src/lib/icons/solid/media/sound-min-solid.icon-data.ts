@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Sound Min
  */
-export const soundMinSolidIconData: IconData = {
+export const soundMinSolid: IconData = {
   name: 'sound-min',
   type: 'solid',
   category: 'media',

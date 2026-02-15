@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Qr Code
  */
-export const qrCodeRegularIconData: IconData = {
+export const qrCodeRegular: IconData = {
   name: 'qr-code',
   type: 'regular',
   category: 'misc',

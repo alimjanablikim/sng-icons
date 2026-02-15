@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Dollar Circle
  */
-export const dollarCircleRegularIconData: IconData = {
+export const dollarCircleRegular: IconData = {
   name: 'dollar-circle',
   type: 'regular',
   category: 'finance',

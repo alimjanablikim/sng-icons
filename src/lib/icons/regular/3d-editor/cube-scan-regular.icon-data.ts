@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Cube Scan
  */
-export const cubeScanRegularIconData: IconData = {
+export const cubeScanRegular: IconData = {
   name: 'cube-scan',
   type: 'regular',
   category: '3d-editor',

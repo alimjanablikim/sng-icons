@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name System Restart
  */
-export const systemRestartRegularIconData: IconData = {
+export const systemRestartRegular: IconData = {
   name: 'system-restart',
   type: 'regular',
   category: 'actions',

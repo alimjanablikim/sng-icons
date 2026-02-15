@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Mpeg Format
  */
-export const mpegFormatRegularIconData: IconData = {
+export const mpegFormatRegular: IconData = {
   name: 'mpeg-format',
   type: 'regular',
   category: 'files',

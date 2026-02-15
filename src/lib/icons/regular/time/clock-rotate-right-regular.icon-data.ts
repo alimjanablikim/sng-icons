@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Clock Rotate Right
  */
-export const clockRotateRightRegularIconData: IconData = {
+export const clockRotateRightRegular: IconData = {
   name: 'clock-rotate-right',
   type: 'regular',
   category: 'time',

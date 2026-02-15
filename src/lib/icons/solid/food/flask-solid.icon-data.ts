@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Flask
  */
-export const flaskSolidIconData: IconData = {
+export const flaskSolid: IconData = {
   name: 'flask',
   type: 'solid',
   category: 'food',

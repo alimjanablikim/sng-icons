@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Lock Slash
  */
-export const lockSlashRegularIconData: IconData = {
+export const lockSlashRegular: IconData = {
   name: 'lock-slash',
   type: 'regular',
   category: 'security',

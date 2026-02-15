@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Square 3d Three Points
  */
-export const square3dThreePointsRegularIconData: IconData = {
+export const square3dThreePointsRegular: IconData = {
   name: 'square-3d-three-points',
   type: 'regular',
   category: '3d-editor',

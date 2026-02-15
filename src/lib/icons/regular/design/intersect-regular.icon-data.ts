@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Intersect
  */
-export const intersectRegularIconData: IconData = {
+export const intersectRegular: IconData = {
   name: 'intersect',
   type: 'regular',
   category: 'design',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Map Xmark
  */
-export const mapXmarkRegularIconData: IconData = {
+export const mapXmarkRegular: IconData = {
   name: 'map-xmark',
   type: 'regular',
   category: 'location',

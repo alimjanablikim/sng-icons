@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Windows
  */
-export const windowsRegularIconData: IconData = {
+export const windowsRegular: IconData = {
   name: 'windows',
   type: 'regular',
   category: 'brand',

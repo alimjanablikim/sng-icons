@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Adobe Xd
  */
-export const adobeXdSolidIconData: IconData = {
+export const adobeXdSolid: IconData = {
   name: 'adobe-xd',
   type: 'solid',
   category: 'brand',

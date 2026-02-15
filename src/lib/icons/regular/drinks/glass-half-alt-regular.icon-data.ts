@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Glass Half Alt
  */
-export const glassHalfAltRegularIconData: IconData = {
+export const glassHalfAltRegular: IconData = {
   name: 'glass-half-alt',
   type: 'regular',
   category: 'drinks',

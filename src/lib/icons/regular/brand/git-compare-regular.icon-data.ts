@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Git Compare
  */
-export const gitCompareRegularIconData: IconData = {
+export const gitCompareRegular: IconData = {
   name: 'git-compare',
   type: 'regular',
   category: 'brand',

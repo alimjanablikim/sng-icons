@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Git
  */
-export const gitSolidIconData: IconData = {
+export const gitSolid: IconData = {
   name: 'git',
   type: 'solid',
   category: 'brand',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Apple Shortcuts
  */
-export const appleShortcutsSolidIconData: IconData = {
+export const appleShortcutsSolid: IconData = {
   name: 'apple-shortcuts',
   type: 'solid',
   category: 'brand',

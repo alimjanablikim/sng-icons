@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Ruler Combine
  */
-export const rulerCombineRegularIconData: IconData = {
+export const rulerCombineRegular: IconData = {
   name: 'ruler-combine',
   type: 'regular',
   category: 'design',

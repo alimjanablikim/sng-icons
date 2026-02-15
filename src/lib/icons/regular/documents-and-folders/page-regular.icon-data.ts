@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Page
  */
-export const pageRegularIconData: IconData = {
+export const pageRegular: IconData = {
   name: 'page',
   type: 'regular',
   category: 'documents-and-folders',

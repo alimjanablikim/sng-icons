@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Adobe After Effects
  */
-export const adobeAfterEffectsRegularIconData: IconData = {
+export const adobeAfterEffectsRegular: IconData = {
   name: 'adobe-after-effects',
   type: 'regular',
   category: 'brand',

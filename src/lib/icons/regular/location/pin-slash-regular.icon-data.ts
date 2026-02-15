@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Pin Slash
  */
-export const pinSlashRegularIconData: IconData = {
+export const pinSlashRegular: IconData = {
   name: 'pin-slash',
   type: 'regular',
   category: 'location',

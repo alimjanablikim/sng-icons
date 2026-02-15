@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Font Question
  */
-export const fontQuestionRegularIconData: IconData = {
+export const fontQuestionRegular: IconData = {
   name: 'font-question',
   type: 'regular',
   category: 'editing',

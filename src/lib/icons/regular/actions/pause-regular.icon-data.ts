@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Pause
  */
-export const pauseRegularIconData: IconData = {
+export const pauseRegular: IconData = {
   name: 'pause',
   type: 'regular',
   category: 'actions',

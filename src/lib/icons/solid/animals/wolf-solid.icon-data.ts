@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Wolf
  */
-export const wolfSolidIconData: IconData = {
+export const wolfSolid: IconData = {
   name: 'wolf',
   type: 'solid',
   category: 'animals',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Adobe Photoshop
  */
-export const adobePhotoshopRegularIconData: IconData = {
+export const adobePhotoshopRegular: IconData = {
   name: 'adobe-photoshop',
   type: 'regular',
   category: 'brand',

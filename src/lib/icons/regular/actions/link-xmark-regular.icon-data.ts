@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Link Xmark
  */
-export const linkXmarkRegularIconData: IconData = {
+export const linkXmarkRegular: IconData = {
   name: 'link-xmark',
   type: 'regular',
   category: 'actions',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Selective Tool
  */
-export const selectiveToolRegularIconData: IconData = {
+export const selectiveToolRegular: IconData = {
   name: 'selective-tool',
   type: 'regular',
   category: 'design',

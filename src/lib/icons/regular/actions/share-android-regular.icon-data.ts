@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Share Android
  */
-export const shareAndroidRegularIconData: IconData = {
+export const shareAndroidRegular: IconData = {
   name: 'share-android',
   type: 'regular',
   category: 'actions',

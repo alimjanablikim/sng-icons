@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Server
  */
-export const serverSolidIconData: IconData = {
+export const serverSolid: IconData = {
   name: 'server',
   type: 'solid',
   category: 'computer',

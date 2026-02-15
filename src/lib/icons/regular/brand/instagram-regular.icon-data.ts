@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Instagram
  */
-export const instagramRegularIconData: IconData = {
+export const instagramRegular: IconData = {
   name: 'instagram',
   type: 'regular',
   category: 'brand',

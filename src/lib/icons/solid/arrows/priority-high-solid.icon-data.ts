@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Priority High
  */
-export const priorityHighSolidIconData: IconData = {
+export const priorityHighSolid: IconData = {
   name: 'priority-high',
   type: 'solid',
   category: 'arrows',

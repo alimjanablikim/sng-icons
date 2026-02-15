@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Multi Bubble
  */
-export const multiBubbleRegularIconData: IconData = {
+export const multiBubbleRegular: IconData = {
   name: 'multi-bubble',
   type: 'regular',
   category: 'communication',

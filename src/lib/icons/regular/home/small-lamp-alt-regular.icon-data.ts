@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Small Lamp Alt
  */
-export const smallLampAltRegularIconData: IconData = {
+export const smallLampAltRegular: IconData = {
   name: 'small-lamp-alt',
   type: 'regular',
   category: 'home',

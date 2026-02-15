@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Perspective View
  */
-export const perspectiveViewRegularIconData: IconData = {
+export const perspectiveViewRegular: IconData = {
   name: 'perspective-view',
   type: 'regular',
   category: '3d-editor',

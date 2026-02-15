@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Check Circle
  */
-export const checkCircleSolidIconData: IconData = {
+export const checkCircleSolid: IconData = {
   name: 'check-circle',
   type: 'solid',
   category: 'actions',

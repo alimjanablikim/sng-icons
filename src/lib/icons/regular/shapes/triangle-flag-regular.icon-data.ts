@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Triangle Flag
  */
-export const triangleFlagRegularIconData: IconData = {
+export const triangleFlagRegular: IconData = {
   name: 'triangle-flag',
   type: 'regular',
   category: 'shapes',

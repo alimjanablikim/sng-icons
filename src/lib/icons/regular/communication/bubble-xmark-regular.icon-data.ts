@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Bubble Xmark
  */
-export const bubbleXmarkRegularIconData: IconData = {
+export const bubbleXmarkRegular: IconData = {
   name: 'bubble-xmark',
   type: 'regular',
   category: 'communication',

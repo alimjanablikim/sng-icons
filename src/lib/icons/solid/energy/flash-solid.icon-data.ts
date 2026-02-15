@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Flash
  */
-export const flashSolidIconData: IconData = {
+export const flashSolid: IconData = {
   name: 'flash',
   type: 'solid',
   category: 'energy',

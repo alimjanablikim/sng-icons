@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Microphone Check
  */
-export const microphoneCheckRegularIconData: IconData = {
+export const microphoneCheckRegular: IconData = {
   name: 'microphone-check',
   type: 'regular',
   category: 'media',

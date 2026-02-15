@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Select Window
  */
-export const selectWindowRegularIconData: IconData = {
+export const selectWindowRegular: IconData = {
   name: 'select-window',
   type: 'regular',
   category: 'devices',

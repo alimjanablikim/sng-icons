@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Gif Format
  */
-export const gifFormatRegularIconData: IconData = {
+export const gifFormatRegular: IconData = {
   name: 'gif-format',
   type: 'regular',
   category: 'files',

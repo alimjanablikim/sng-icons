@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Navigator Alt
  */
-export const navigatorAltRegularIconData: IconData = {
+export const navigatorAltRegular: IconData = {
   name: 'navigator-alt',
   type: 'regular',
   category: 'location',

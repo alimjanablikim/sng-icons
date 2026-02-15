@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Page Search
  */
-export const pageSearchRegularIconData: IconData = {
+export const pageSearchRegular: IconData = {
   name: 'page-search',
   type: 'regular',
   category: 'documents-and-folders',

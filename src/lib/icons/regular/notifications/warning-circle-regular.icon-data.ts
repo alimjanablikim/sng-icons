@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Warning Circle
  */
-export const warningCircleRegularIconData: IconData = {
+export const warningCircleRegular: IconData = {
   name: 'warning-circle',
   type: 'regular',
   category: 'notifications',

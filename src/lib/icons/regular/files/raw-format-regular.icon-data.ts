@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Raw Format
  */
-export const rawFormatRegularIconData: IconData = {
+export const rawFormatRegular: IconData = {
   name: 'raw-format',
   type: 'regular',
   category: 'files',

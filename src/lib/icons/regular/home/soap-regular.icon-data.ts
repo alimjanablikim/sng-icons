@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Soap
  */
-export const soapRegularIconData: IconData = {
+export const soapRegular: IconData = {
   name: 'soap',
   type: 'regular',
   category: 'home',

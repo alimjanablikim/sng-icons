@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Crop Rotate Tr
  */
-export const cropRotateTrRegularIconData: IconData = {
+export const cropRotateTrRegular: IconData = {
   name: 'crop-rotate-tr',
   type: 'regular',
   category: 'design',

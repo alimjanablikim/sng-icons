@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name More Horiz Circle
  */
-export const moreHorizCircleRegularIconData: IconData = {
+export const moreHorizCircleRegular: IconData = {
   name: 'more-horiz-circle',
   type: 'regular',
   category: 'controls',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Maps Go Straight
  */
-export const mapsGoStraightRegularIconData: IconData = {
+export const mapsGoStraightRegular: IconData = {
   name: 'maps-go-straight',
   type: 'regular',
   category: 'location',

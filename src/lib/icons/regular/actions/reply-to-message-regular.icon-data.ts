@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Reply To Message
  */
-export const replyToMessageRegularIconData: IconData = {
+export const replyToMessageRegular: IconData = {
   name: 'reply-to-message',
   type: 'regular',
   category: 'actions',

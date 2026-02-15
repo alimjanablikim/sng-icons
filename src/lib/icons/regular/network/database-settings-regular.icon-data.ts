@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Database Settings
  */
-export const databaseSettingsRegularIconData: IconData = {
+export const databaseSettingsRegular: IconData = {
   name: 'database-settings',
   type: 'regular',
   category: 'network',

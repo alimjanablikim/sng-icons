@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Git Merge
  */
-export const gitMergeRegularIconData: IconData = {
+export const gitMergeRegular: IconData = {
   name: 'git-merge',
   type: 'regular',
   category: 'brand',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Chat Minus In
  */
-export const chatMinusInRegularIconData: IconData = {
+export const chatMinusInRegular: IconData = {
   name: 'chat-minus-in',
   type: 'regular',
   category: 'communication',

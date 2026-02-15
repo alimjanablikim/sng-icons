@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name User Scan
  */
-export const userScanRegularIconData: IconData = {
+export const userScanRegular: IconData = {
   name: 'user-scan',
   type: 'regular',
   category: 'people',

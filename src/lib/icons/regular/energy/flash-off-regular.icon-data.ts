@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Flash Off
  */
-export const flashOffRegularIconData: IconData = {
+export const flashOffRegular: IconData = {
   name: 'flash-off',
   type: 'regular',
   category: 'energy',

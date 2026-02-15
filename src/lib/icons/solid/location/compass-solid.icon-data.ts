@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Compass
  */
-export const compassSolidIconData: IconData = {
+export const compassSolid: IconData = {
   name: 'compass',
   type: 'solid',
   category: 'location',

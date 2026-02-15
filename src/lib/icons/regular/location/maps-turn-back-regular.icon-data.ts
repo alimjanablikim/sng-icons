@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Maps Turn Back
  */
-export const mapsTurnBackRegularIconData: IconData = {
+export const mapsTurnBackRegular: IconData = {
   name: 'maps-turn-back',
   type: 'regular',
   category: 'location',

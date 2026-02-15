@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Round Flask
  */
-export const roundFlaskSolidIconData: IconData = {
+export const roundFlaskSolid: IconData = {
   name: 'round-flask',
   type: 'solid',
   category: 'food',

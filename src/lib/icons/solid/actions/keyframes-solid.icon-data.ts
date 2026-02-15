@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Keyframes
  */
-export const keyframesSolidIconData: IconData = {
+export const keyframesSolid: IconData = {
   name: 'keyframes',
   type: 'solid',
   category: 'actions',

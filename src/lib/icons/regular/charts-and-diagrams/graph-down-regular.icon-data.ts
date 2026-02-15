@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Graph Down
  */
-export const graphDownRegularIconData: IconData = {
+export const graphDownRegular: IconData = {
   name: 'graph-down',
   type: 'regular',
   category: 'charts-and-diagrams',

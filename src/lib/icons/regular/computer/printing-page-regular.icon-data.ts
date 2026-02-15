@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Printing Page
  */
-export const printingPageRegularIconData: IconData = {
+export const printingPageRegular: IconData = {
   name: 'printing-page',
   type: 'regular',
   category: 'computer',

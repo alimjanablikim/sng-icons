@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Mac Os Window
  */
-export const macOsWindowRegularIconData: IconData = {
+export const macOsWindowRegular: IconData = {
   name: 'mac-os-window',
   type: 'regular',
   category: 'devices',

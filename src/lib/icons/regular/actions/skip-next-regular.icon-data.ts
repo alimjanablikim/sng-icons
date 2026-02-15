@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Skip Next
  */
-export const skipNextRegularIconData: IconData = {
+export const skipNextRegular: IconData = {
   name: 'skip-next',
   type: 'regular',
   category: 'actions',

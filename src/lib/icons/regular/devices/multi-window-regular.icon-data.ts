@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Multi Window
  */
-export const multiWindowRegularIconData: IconData = {
+export const multiWindowRegular: IconData = {
   name: 'multi-window',
   type: 'regular',
   category: 'devices',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Ease In Out
  */
-export const easeInOutRegularIconData: IconData = {
+export const easeInOutRegular: IconData = {
   name: 'ease-in-out',
   type: 'regular',
   category: 'design',

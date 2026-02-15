@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Number 1 Square
  */
-export const number1SquareSolidIconData: IconData = {
+export const number1SquareSolid: IconData = {
   name: 'number-1-square',
   type: 'solid',
   category: 'shapes',

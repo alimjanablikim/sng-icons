@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Sphere
  */
-export const sphereRegularIconData: IconData = {
+export const sphereRegular: IconData = {
   name: 'sphere',
   type: 'regular',
   category: '3d-editor',

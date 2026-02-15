@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Grid Minus
  */
-export const gridMinusRegularIconData: IconData = {
+export const gridMinusRegular: IconData = {
   name: 'grid-minus',
   type: 'regular',
   category: 'layout',

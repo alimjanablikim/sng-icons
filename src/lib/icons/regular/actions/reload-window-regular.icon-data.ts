@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Reload Window
  */
-export const reloadWindowRegularIconData: IconData = {
+export const reloadWindowRegular: IconData = {
   name: 'reload-window',
   type: 'regular',
   category: 'actions',

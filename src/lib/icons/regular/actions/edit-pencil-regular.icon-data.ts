@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Edit Pencil
  */
-export const editPencilRegularIconData: IconData = {
+export const editPencilRegular: IconData = {
   name: 'edit-pencil',
   type: 'regular',
   category: 'actions',

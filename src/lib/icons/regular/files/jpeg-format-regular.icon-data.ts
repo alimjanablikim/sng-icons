@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Jpeg Format
  */
-export const jpegFormatRegularIconData: IconData = {
+export const jpegFormatRegular: IconData = {
   name: 'jpeg-format',
   type: 'regular',
   category: 'files',

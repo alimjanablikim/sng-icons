@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Bitbucket
  */
-export const bitbucketRegularIconData: IconData = {
+export const bitbucketRegular: IconData = {
   name: 'bitbucket',
   type: 'regular',
   category: 'brand',

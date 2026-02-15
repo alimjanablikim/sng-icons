@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Fast Arrow Down
  */
-export const fastArrowDownRegularIconData: IconData = {
+export const fastArrowDownRegular: IconData = {
   name: 'fast-arrow-down',
   type: 'regular',
   category: 'actions',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Modern Tv 4k
  */
-export const modernTv4kRegularIconData: IconData = {
+export const modernTv4kRegular: IconData = {
   name: 'modern-tv-4k',
   type: 'regular',
   category: 'devices',

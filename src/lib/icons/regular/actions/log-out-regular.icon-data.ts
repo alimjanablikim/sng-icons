@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Log Out
  */
-export const logOutRegularIconData: IconData = {
+export const logOutRegular: IconData = {
   name: 'log-out',
   type: 'regular',
   category: 'actions',

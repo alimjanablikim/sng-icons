@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Skip Prev
  */
-export const skipPrevSolidIconData: IconData = {
+export const skipPrevSolid: IconData = {
   name: 'skip-prev',
   type: 'solid',
   category: 'actions',

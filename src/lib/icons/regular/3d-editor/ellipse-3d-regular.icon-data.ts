@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Ellipse 3d
  */
-export const ellipse3dRegularIconData: IconData = {
+export const ellipse3dRegular: IconData = {
   name: 'ellipse-3d',
   type: 'regular',
   category: '3d-editor',

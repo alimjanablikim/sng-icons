@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Airplay
  */
-export const airplayRegularIconData: IconData = {
+export const airplayRegular: IconData = {
   name: 'airplay',
   type: 'regular',
   category: 'devices',

@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Mobile Voice
  */
-export const mobileVoiceRegularIconData: IconData = {
+export const mobileVoiceRegular: IconData = {
   name: 'mobile-voice',
   type: 'regular',
   category: 'devices',

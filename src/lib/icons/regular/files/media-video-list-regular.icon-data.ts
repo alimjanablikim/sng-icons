@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Media Video List
  */
-export const mediaVideoListRegularIconData: IconData = {
+export const mediaVideoListRegular: IconData = {
   name: 'media-video-list',
   type: 'regular',
   category: 'files',

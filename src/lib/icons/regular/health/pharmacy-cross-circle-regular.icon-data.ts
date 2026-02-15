@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Pharmacy Cross Circle
  */
-export const pharmacyCrossCircleRegularIconData: IconData = {
+export const pharmacyCrossCircleRegular: IconData = {
   name: 'pharmacy-cross-circle',
   type: 'regular',
   category: 'health',

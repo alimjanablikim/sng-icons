@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Drag
  */
-export const dragSolidIconData: IconData = {
+export const dragSolid: IconData = {
   name: 'drag',
   type: 'solid',
   category: 'controls',

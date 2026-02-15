@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Open In Window
  */
-export const openInWindowRegularIconData: IconData = {
+export const openInWindowRegular: IconData = {
   name: 'open-in-window',
   type: 'regular',
   category: 'actions',

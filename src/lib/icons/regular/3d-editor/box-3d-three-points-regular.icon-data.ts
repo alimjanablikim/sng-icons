@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Box 3d Three Points
  */
-export const box3dThreePointsRegularIconData: IconData = {
+export const box3dThreePointsRegular: IconData = {
   name: 'box-3d-three-points',
   type: 'regular',
   category: '3d-editor',

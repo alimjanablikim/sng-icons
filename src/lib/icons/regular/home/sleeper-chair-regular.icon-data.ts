@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Sleeper Chair
  */
-export const sleeperChairRegularIconData: IconData = {
+export const sleeperChairRegular: IconData = {
   name: 'sleeper-chair',
   type: 'regular',
   category: 'home',

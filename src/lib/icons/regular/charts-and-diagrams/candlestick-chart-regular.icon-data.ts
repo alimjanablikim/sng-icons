@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Candlestick Chart
  */
-export const candlestickChartRegularIconData: IconData = {
+export const candlestickChartRegular: IconData = {
   name: 'candlestick-chart',
   type: 'regular',
   category: 'charts-and-diagrams',

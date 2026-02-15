@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Microscope
  */
-export const microscopeRegularIconData: IconData = {
+export const microscopeRegular: IconData = {
   name: 'microscope',
   type: 'regular',
   category: 'health',

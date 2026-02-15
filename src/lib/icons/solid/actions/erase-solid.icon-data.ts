@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Erase
  */
-export const eraseSolidIconData: IconData = {
+export const eraseSolid: IconData = {
   name: 'erase',
   type: 'solid',
   category: 'actions',

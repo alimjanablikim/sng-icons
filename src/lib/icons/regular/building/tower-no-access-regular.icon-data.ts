@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Tower No Access
  */
-export const towerNoAccessRegularIconData: IconData = {
+export const towerNoAccessRegular: IconData = {
   name: 'tower-no-access',
   type: 'regular',
   category: 'building',

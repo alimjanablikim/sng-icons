@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Book
  */
-export const bookSolidIconData: IconData = {
+export const bookSolid: IconData = {
   name: 'book',
   type: 'solid',
   category: 'documents-and-folders',

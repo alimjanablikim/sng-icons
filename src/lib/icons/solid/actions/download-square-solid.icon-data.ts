@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Download Square
  */
-export const downloadSquareSolidIconData: IconData = {
+export const downloadSquareSolid: IconData = {
   name: 'download-square',
   type: 'solid',
   category: 'actions',

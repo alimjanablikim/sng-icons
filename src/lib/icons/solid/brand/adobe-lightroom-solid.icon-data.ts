@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type solid
  * @name Adobe Lightroom
  */
-export const adobeLightroomSolidIconData: IconData = {
+export const adobeLightroomSolid: IconData = {
   name: 'adobe-lightroom',
   type: 'solid',
   category: 'brand',

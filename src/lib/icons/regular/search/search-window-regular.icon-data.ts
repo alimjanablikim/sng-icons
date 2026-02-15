@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Search Window
  */
-export const searchWindowRegularIconData: IconData = {
+export const searchWindowRegular: IconData = {
   name: 'search-window',
   type: 'regular',
   category: 'search',

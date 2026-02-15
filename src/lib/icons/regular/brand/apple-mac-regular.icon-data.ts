@@ -5,7 +5,7 @@ import type { IconData } from '../../icon-data.interface';
  * @type regular
  * @name Apple Mac
  */
-export const appleMacRegularIconData: IconData = {
+export const appleMacRegular: IconData = {
   name: 'apple-mac',
   type: 'regular',
   category: 'brand',
