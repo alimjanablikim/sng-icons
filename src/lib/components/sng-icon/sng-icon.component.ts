@@ -19,7 +19,7 @@ import type { IconData } from '../../icons/icon-data.interface';
 
 /** Dynamic icon component for ShadNG Icons. */
 @Component({
-  selector: 'sng-icon, cw-icon',
+  selector: 'sng-icon',
   template: `
     @if (hasIcon()) {
       <svg
@@ -31,7 +31,7 @@ import type { IconData } from '../../icons/icon-data.interface';
       ></svg>
     } @else if (showFallback()) {
       <svg
-        class="sng-fallback-icon cw-fallback-icon"
+        class="sng-fallback-icon"
         [attr.viewBox]="'0 0 24 24'"
         [attr.aria-hidden]="!alt()"
       >
@@ -137,7 +137,7 @@ import type { IconData } from '../../icons/icon-data.interface';
     }
   `],
   host: {
-    class: 'sng-icon sng-icon-component cw-icon cw-icon-component',
+    class: 'sng-icon sng-icon-component',
     '[attr.role]': 'alt() ? "img" : null',
     '[attr.tabindex]': 'alt() ? 0 : null',
     '[attr.aria-label]': 'alt()',
@@ -186,11 +186,11 @@ export class SngIcon implements AfterViewInit {
   );
 
   readonly svgClasses = computed(() => {
-    const classes = ['sng-icon-svg', 'cw-icon-svg'];
+    const classes = ['sng-icon-svg'];
     const icon = this.icon();
 
     if (icon) {
-      classes.push(`sng-${icon.type}-svg`, `cw-${icon.type}-svg`);
+      classes.push(`sng-${icon.type}-svg`);
     }
 
     const extra = this.svgClass().trim();
