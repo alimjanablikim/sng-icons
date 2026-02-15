@@ -1,13 +1,13 @@
 # ShadNG Icons (`@shadng/sng-icons`)
 
-Dynamic Angular icon library with native Tailwind CSS support, tree-shakeable icon data, and built from Iconoir SVGs.
+Angular icon library with Tailwind CSS support, tree-shakeable icon data, and built from Iconoir SVGs.
 
 ## Gallery
 https://shadng.js.org/icons
 
 ## Features
 
-- 🎯 **Native Tailwind CSS Support** - Use standard Tailwind utilities for sizing, colors, and animations
+- 🎯 **Tailwind CSS Support** - Use standard Tailwind utilities for sizing, colors, and animations
 - 🌲 **Tree-shakeable** - Only import the icons you use
 - 🚀 **Performance optimized** - Built-in SVG sanitization caching
 - 📱 **Fully responsive** - Works with all Tailwind breakpoints
