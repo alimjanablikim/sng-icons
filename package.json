@@ -1,0 +1,43 @@
+{
+  "name": "@shadng/sng-icons",
+  "version": "2.0.4",
+  "homepage": "https://shadng.js.org/icons",
+  "description": "ShadNG Angular icon library generated from SVG sources.",
+  "author": "Alimjan Ablikim",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alimjanablikim/sng-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alimjanablikim/sng-icons/issues"
+  },
+  "keywords": [
+    "angular",
+    "icons",
+    "tailwind",
+    "tailwindcss",
+    "svg",
+    "components",
+    "ui",
+    "icon-library",
+    "tree-shaking",
+    "typescript"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^21.0.0",
+    "@angular/core": "^21.0.0",
+    "@angular/platform-browser": "^21.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "npx ng-packagr",
+    "prepublishOnly": "npm run build"
+  }
+}
